@@ -1,0 +1,5690 @@
+{
+  "AAAATTTTCCGGTTT": [
+    33
+  ],
+  "AAAATACCCTCTGAA": [
+    92
+  ],
+  "AAAAGAAAGGAAACG": [
+    105
+  ],
+  "AAACGACAGGTGCTG": [
+    115
+  ],
+  "AAAGCGAGGCTTTTT": [
+    130
+  ],
+  "AACAATGGAAGTCAA": [
+    186
+  ],
+  "AACAAAAAGCAGCTG": [
+    199
+  ],
+  "AAAAAGCAGCTGGCT": [
+    202
+  ],
+  "AAAAGCAGCTGGCTG": [
+    203
+  ],
+  "AAAGCAGCTGGCTGA": [
+    204
+  ],
+  "AACAGGGAATGCCCG": [
+    260
+  ],
+  "AAGGGTAATGAGGTG": [
+    292
+  ],
+  "AAAATGGTATGCCGA": [
+    330
+  ],
+  "AAAAGCTGCGCCGGG": [
+    368
+  ],
+  "AAAGCTGCGCCGGGA": [
+    369
+  ],
+  "AACTATTGAGTACGA": [
+    429
+  ],
+  "AACGCCATCGACTTA": [
+    443
+  ],
+  "AACTGAAGAATGCCA": [
+    482
+  ],
+  "AAACCGCATTCTGTA": [
+    518
+  ],
+  "AAATTGCCAGTATTC": [
+    560
+  ],
+  "AAAACCGACATGTTG": [
+    620
+  ],
+  "AAACCGACATGTTGA": [
+    621
+  ],
+  "AAACGGGATATCATC": [
+    643
+  ],
+  "AAAGCAGCCGCGCTG": [
+    670
+  ],
+  "AACAGTCAGGTTAAC": [
+    722
+  ],
+  "AACAGGCTGCGGCAT": [
+    734
+  ],
+  "ACAGACCGCCGTTGA": [
+    790
+  ],
+  "AATGGGCGGATGCTA": [
+    804
+  ],
+  "AAAGAATCCGCATAC": [
+    833
+  ],
+  "AAACACTGCCCTTTC": [
+    864
+  ],
+  "AACACTGCCCTTTCA": [
+    865
+  ],
+  "AATGCGATGGGCAGC": [
+    893
+  ],
+  "AAGTCTGCCCGTGTC": [
+    935
+  ],
+  "AAAATGCTGCTGGGT": [
+    959
+  ],
+  "AAATGCTGCTGGGTG": [
+    960
+  ],
+  "AACACCCTTATCTGG": [
+    1007
+  ],
+  "AAAACCCACGTTGAG": [
+    1055
+  ],
+  "AAACCCACGTTGAGC": [
+    1056
+  ],
+  "AACCCACGTTGAGCC": [
+    1057
+  ],
+  "ACCCACGTTGAGCCG": [
+    1058
+  ],
+  "ACGTTGAGCCGACTA": [
+    1062
+  ],
+  "AAAAAGCACCGGGAT": [
+    1121
+  ],
+  "AAAAGCACCGGGATA": [
+    1122
+  ],
+  "AAAGCACCGGGATAA": [
+    1123
+  ],
+  "AACACGCTCACCATG": [
+    1136
+  ],
+  "AAAGCGGCAAAAAAC": [
+    1193
+  ],
+  "AAAAAACTACCGTGA": [
+    1201
+  ],
+  "AAAAACTACCGTGAA": [
+    1202
+  ],
+  "AAAACTACCGTGAAA": [
+    1203
+  ],
+  "AAAAGTCGGTGGATG": [
+    1215
+  ],
+  "AAAGTCGGTGGATGT": [
+    1216
+  ],
+  "AACAGGAAGGCTCTC": [
+    1272
+  ],
+  "AAAGTCCATCCGTGG": [
+    1330
+  ],
+  "AAAAGTGAGAGGCAC": [
+    1354
+  ],
+  "AAAGTGAGAGGCACC": [
+    1355
+  ],
+  "AAGTGAGAGGCACCT": [
+    1356
+  ],
+  "AATCCCCGCATTTTA": [
+    1395
+  ],
+  "AGCAGTATCTTAAAT": [
+    1446
+  ],
+  "AAATTTGGCGACAAA": [
+    1457
+  ],
+  "AAAGAGACGCCGTTT": [
+    1469
+  ],
+  "AAATGGACGCCGGAT": [
+    1490
+  ],
+  "AATGCCTGCGTCATC": [
+    1538
+  ],
+  "AAAAGACCGGGATCT": [
+    1596
+  ],
+  "AAAGACCGGGATCTG": [
+    1597
+  ],
+  "AAGACCGGGATCTGG": [
+    1598
+  ],
+  "AAGAGATTGAGCCAC": [
+    1650
+  ],
+  "ACAGCCCGTTCACCA": [
+    1698
+  ],
+  "AAAGACTGGATGAAA": [
+    1730
+  ],
+  "AAAACGAAAGGGGAT": [
+    1742
+  ],
+  "AAAACCTTCGTAAAC": [
+    1769
+  ],
+  "AAAATTGGCGAACGT": [
+    1811
+  ],
+  "AAAGAGCATTATTCA": [
+    1853
+  ],
+  "AAGAGCATTATTCAG": [
+    1854
+  ],
+  "ACCGCCGGTATCGAC": [
+    1898
+  ],
+  "AAATGCGCGTATGGG": [
+    1932
+  ],
+  "AAAGCTGGCTGATTG": [
+    1965
+  ],
+  "AACAGACGCTGCTGC": [
+    2013
+  ],
+  "AAAACCTATACCCGC": [
+    2048
+  ],
+  "AAACCTATACCCGCC": [
+    2049
+  ],
+  "AAATGTCGATATCCC": [
+    2076
+  ],
+  "AACGCTCGAAAAAAC": [
+    2136
+  ],
+  "AAAAAACATGGGCTG": [
+    2144
+  ],
+  "AAAAACATGGGCTGT": [
+    2145
+  ],
+  "AAAACATGGGCTGTT": [
+    2146
+  ],
+  "AAACATGGGCTGTTC": [
+    2147
+  ],
+  "AAAGCCGGTGGCCAG": [
+    2197
+  ],
+  "AAACAAAAACGGGGT": [
+    2227
+  ],
+  "AAAAACGGGGTTTAC": [
+    2231
+  ],
+  "AAAACGGGGTTTACC": [
+    2232
+  ],
+  "AAACGGGGTTTACCT": [
+    2233
+  ],
+  "AAAGAGCAGATTTAT": [
+    2273
+  ],
+  "AACCGCTTCACACTG": [
+    2288
+  ],
+  "AACCGCTTCCCGGTG": [
+    2319
+  ],
+  "AACCCGGATATTTTT": [
+    2351
+  ],
+  "AAAAATGGGTGGATG": [
+    2409
+  ],
+  "AAAAAAATACTGTGG": [
+    2429
+  ],
+  "AAAAAATACTGTGGG": [
+    2430
+  ],
+  "AAAAAGCGACGCAAT": [
+    2450
+  ],
+  "AAAAGCGACGCAATG": [
+    2451
+  ],
+  "AAAGCGACGCAATGA": [
+    2452
+  ],
+  "AAGCGACGCAATGAG": [
+    2453
+  ],
+  "AATGAGGCACTCGAC": [
+    2462
+  ],
+  "ACTCGACTGCTTCGT": [
+    2470
+  ],
+  "ACTGCTTCGTTTATG": [
+    2475
+  ],
+  "AGCTGGATCTCAGTG": [
+    2526
+  ],
+  "AGCCTGCAGGAAGAG": [
+    2552
+  ],
+  "AAGAGGATGGTGCAG": [
+    2562
+  ],
+  "AACCAACAAGAAAAC": [
+    2578
+  ],
+  "AACAAGAAAACACTG": [
+    2582
+  ],
+  "AAAACACTGGCAGAT": [
+    2588
+  ],
+  "AAACACTGGCAGATT": [
+    2589
+  ],
+  "AACACTGGCAGATTA": [
+    2590
+  ],
+  "AACTTGCCGCTGCCC": [
+    2648
+  ],
+  "AAACGGGTGGCAACA": [
+    2692
+  ],
+  "AAAGACGGACGAAGG": [
+    2713
+  ],
+  "AAAAAATATATTGCA": [
+    2761
+  ],
+  "AAAAATATATTGCAG": [
+    2762
+  ],
+  "AAAATATATTGCAGA": [
+    2763
+  ],
+  "AAATATATTGCAGAG": [
+    2764
+  ],
+  "AAGTGCAGACCGGCA": [
+    2783
+  ],
+  "AAAACGCCCACCATT": [
+    2838
+  ],
+  "AAACGCCCACCATTC": [
+    2839
+  ],
+  "AACGCCCACCATTCC": [
+    2840
+  ],
+  "AATATGCCGGTTATC": [
+    2893
+  ],
+  "AACCCACCGAGTGAA": [
+    2949
+  ],
+  "AAAGTGTGGATGCAG": [
+    2962
+  ],
+  "AACTTTACCCGTGGC": [
+    2988
+  ],
+  "AACGGCTATGCCGCC": [
+    3033
+  ],
+  "AACGCCATCCAGCTG": [
+    3048
+  ],
+  "ACGCCATCCAGCTGC": [
+    3049
+  ],
+  "AAGCTGGCGCTATCT": [
+    3110
+  ],
+  "AAGAAGCCCGTGCCT": [
+    3139
+  ],
+  "AAAGAGTTTGCCGAG": [
+    3180
+  ],
+  "AAAACGCACGTTTAC": [
+    3224
+  ],
+  "AAACGCACGTTTACC": [
+    3225
+  ],
+  "AACGCACGTTTACCA": [
+    3226
+  ],
+  "AACGGTGAACTGTTC": [
+    3276
+  ],
+  "AACTGTTCGTTCAGG": [
+    3283
+  ],
+  "ACACAGTTCCGGATG": [
+    3333
+  ],
+  "AAGCGCATCAGCAAC": [
+    3357
+  ],
+  "AACCCGAACAATACC": [
+    3369
+  ],
+  "AACAATACCGGCGAC": [
+    3375
+  ],
+  "AACTGCCGTGCCGGT": [
+    3396
+  ],
+  "AATGACAGCGGTGCG": [
+    3420
+  ],
+  "ACAGCGGTGCGGCGC": [
+    3424
+  ],
+  "ACGGGTATCCTGGCT": [
+    3460
+  ],
+  "AAATGGACATGGATA": [
+    3486
+  ],
+  "AACCCGTGGAGGACG": [
+    3547
+  ],
+  "AAATGTGTTTTACAG": [
+    3578
+  ],
+  "AACACGCAGCTGCAG": [
+    3630
+  ],
+  "AAGGCGATGTATGCC": [
+    3657
+  ],
+  "ACCATTGAGAGTGAG": [
+    3675
+  ],
+  "AACAGTCAGGAGCAG": [
+    3729
+  ],
+  "AAAGGCTGACCGGCT": [
+    3748
+  ],
+  "AAATTGCCGCGTATT": [
+    3772
+  ],
+  "AAAAGTACCGCACCT": [
+    3818
+  ],
+  "AAAGTACCGCACCTG": [
+    3819
+  ],
+  "AACCTGCAGACGGCT": [
+    3852
+  ],
+  "AACGGCTACTCCGTG": [
+    3879
+  ],
+  "ACGGCTACTCCGTGT": [
+    3880
+  ],
+  "ACTCCGTGTTTGAGC": [
+    3886
+  ],
+  "ACTGCTGCGGTATAT": [
+    3905
+  ],
+  "AATTACGCCCAGATG": [
+    3960
+  ],
+  "AACGAGTCGTGGGCG": [
+    4002
+  ],
+  "AAAATTCGTCGCATC": [
+    4034
+  ],
+  "AAATTCGTCGCATCC": [
+    4035
+  ],
+  "AAGAGGCCATCGTTC": [
+    4084
+  ],
+  "AAAAGCGCGCTTCAG": [
+    4121
+  ],
+  "AAAGCGCGCTTCAGT": [
+    4122
+  ],
+  "AACTGCGACTGGATA": [
+    4164
+  ],
+  "AAAGAAGTTCAGGAA": [
+    4209
+  ],
+  "AAAGAGTGCGCAAAA": [
+    4263
+  ],
+  "AAAACGCGGTGACGA": [
+    4274
+  ],
+  "AAACGATGGAGCGCC": [
+    4321
+  ],
+  "AAACCGCCCGCCTGG": [
+    4350
+  ],
+  "AACAGAGGAGGAGAA": [
+    4400
+  ],
+  "AAGAGTGACAGCAGA": [
+    4413
+  ],
+  "AATCTCCCGCATATT": [
+    4435
+  ],
+  "AACCCGCCTATGCGC": [
+    4484
+  ],
+  "ACCCGCCTATGCGCG": [
+    4485
+  ],
+  "ACGGATGCGGTGTCC": [
+    4546
+  ],
+  "ACAGCCTGACTGCCC": [
+    4565
+  ],
+  "ACCACGACAGGCCCG": [
+    4623
+  ],
+  "ACAGGCCCGCAGTTA": [
+    4629
+  ],
+  "AACGGCATCGCCGTG": [
+    4654
+  ],
+  "ACGCGGGCGCTGCAG": [
+    4699
+  ],
+  "ACCGGTTACAACGGC": [
+    4729
+  ],
+  "ACAACGGCATTATCG": [
+    4736
+  ],
+  "AACGGCATTATCGCC": [
+    4738
+  ],
+  "AACAGGCTGCCAGCG": [
+    4760
+  ],
+  "ACACGCCCGGCGGGA": [
+    4808
+  ],
+  "ACATCATCGCCCGTG": [
+    4850
+  ],
+  "ACATAAAACCGGTAT": [
+    4871
+  ],
+  "AAAACCGGTATGGGC": [
+    4875
+  ],
+  "AAACCGGTATGGGCG": [
+    4876
+  ],
+  "AACCGGTATGGGCGC": [
+    4877
+  ],
+  "AACGACATGAACTGC": [
+    4897
+  ],
+  "AACTGCAGTGCAGGT": [
+    4906
+  ],
+  "ACCGCCCGGACAGGC": [
+    4963
+  ],
+  "ACAGGCTCCATCGGC": [
+    4972
+  ],
+  "AATTACGGTGCTGCG": [
+    5005
+  ],
+  "AAACAGGGTGTGGAA": [
+    5026
+  ],
+  "AAATCACGCTGATTT": [
+    5039
+  ],
+  "AACCCCTACAGCCAT": [
+    5080
+  ],
+  "AACCCGCCAGATGTT": [
+    5139
+  ],
+  "AAGGTGTCGGCATAT": [
+    5161
+  ],
+  "ACAGCGGTCAGGAGG": [
+    5222
+  ],
+  "AACTTGTTAACAGCA": [
+    5261
+  ],
+  "AACAGCACCGATGCG": [
+    5269
+  ],
+  "AAATCCCGTCTCTCA": [
+    5317
+  ],
+  "AAAGAGACTCAATCA": [
+    5347
+  ],
+  "AACAACTGTTTCAGC": [
+    5361
+  ],
+  "AACTGTTTCAGCCAC": [
+    5364
+  ],
+  "ACGGAGGGCGAGAAC": [
+    5416
+  ],
+  "AACGCCAGCGCGGCG": [
+    5428
+  ],
+  "AAAACAGCCGCATTA": [
+    5486
+  ],
+  "AAACAGCCGCATTAT": [
+    5487
+  ],
+  "AACAGCCGCATTATG": [
+    5488
+  ],
+  "AACAGGCACGCGTGC": [
+    5540
+  ],
+  "AAACCCCCGGTATGA": [
+    5561
+  ],
+  "AAAACGGCCCGCCGC": [
+    5581
+  ],
+  "AAACGGCCCGCCGCA": [
+    5582
+  ],
+  "AACGGCCCGCCGCAT": [
+    5583
+  ],
+  "ACACTGCGCTGGATC": [
+    5636
+  ],
+  "AACCCGGCATCTGAT": [
+    5689
+  ],
+  "AACACACCAGTGTAA": [
+    5722
+  ],
+  "AAAGAAACCTTTACC": [
+    5755
+  ],
+  "AAACCTTTACCCATT": [
+    5759
+  ],
+  "AACAGTGACCCGGCT": [
+    5788
+  ],
+  "AAAGCGCCTGCAATG": [
+    5836
+  ],
+  "AAGCGCCTGCAATGA": [
+    5837
+  ],
+  "AAGCTGGTTGCGTGG": [
+    5881
+  ],
+  "ACCACCGACGGTGCT": [
+    5902
+  ],
+  "ACCACGCTGACGTTC": [
+    5956
+  ],
+  "ACAAGTCCGGCACGT": [
+    5972
+  ],
+  "AAGTCCGGCACGTTC": [
+    5974
+  ],
+  "AAAAAACGGACCGCG": [
+    6034
+  ],
+  "AAAAACGGACCGCGT": [
+    6035
+  ],
+  "AAAACGGACCGCGTT": [
+    6036
+  ],
+  "AAACGGACCGCGTTT": [
+    6037
+  ],
+  "AAAGGCCGCCTGTGC": [
+    6096
+  ],
+  "AACCGCCCAACTGCT": [
+    6148
+  ],
+  "AAATGAGCAGAAATT": [
+    6169
+  ],
+  "AAATTTAAGTTTGAT": [
+    6179
+  ],
+  "AAGTTTGATCCGCTG": [
+    6185
+  ],
+  "AAAGTCTATCTCTCA": [
+    6245
+  ],
+  "AAACATGGCGCTGTA": [
+    6277
+  ],
+  "AACATGGCGCTGTAC": [
+    6278
+  ],
+  "ACATGGCGCTGTACG": [
+    6279
+  ],
+  "ACGTTTCGCCGATTG": [
+    6291
+  ],
+  "ACCTCTGAATTTACG": [
+    6341
+  ],
+  "AATTTACGCCGGGAT": [
+    6348
+  ],
+  "AAGCCGAAGCATGAA": [
+    6368
+  ],
+  "AAGCATGAAGTGAAT": [
+    6374
+  ],
+  "AAGATCCGCAGAATC": [
+    6420
+  ],
+  "AACATGCGTGACGAA": [
+    6476
+  ],
+  "AAGAGATGCAGGCAG": [
+    6513
+  ],
+  "AAATACACCATGACC": [
+    6548
+  ],
+  "AAGCCTTCGATCCGG": [
+    6567
+  ],
+  "AACATCACGCAGTCC": [
+    6614
+  ],
+  "AAGCGTGACAAGTCC": [
+    6647
+  ],
+  "AAGCCTACGCGCTGA": [
+    6687
+  ],
+  "AACGCCAGCGGTGTG": [
+    6701
+  ],
+  "AAAGGCTGGGCGCTG": [
+    6740
+  ],
+  "AAAGCCGTCAAGGAG": [
+    6767
+  ],
+  "AAGCCGTCAAGGAGA": [
+    6768
+  ],
+  "AAGCTGGATACCCGT": [
+    6782
+  ],
+  "AAAGACCTGGGCAAA": [
+    6830
+  ],
+  "AAAGCGGTGTCCTAT": [
+    6842
+  ],
+  "AAGCGGTGTCCTATA": [
+    6843
+  ],
+  "AAGGGGATGTATGGC": [
+    6857
+  ],
+  "AAAACGGCGTCAAAA": [
+    6909
+  ],
+  "AAAAAGAACTTCCTG": [
+    6920
+  ],
+  "AAAAGAACTTCCTGC": [
+    6921
+  ],
+  "AAAGAACTTCCTGCC": [
+    6922
+  ],
+  "AACACGATGGTGCTG": [
+    6941
+  ],
+  "AACACTCAGGCACGC": [
+    6959
+  ],
+  "AAGGCATTAACGCCT": [
+    7020
+  ],
+  "AACGCCTCTGCCCGT": [
+    7028
+  ],
+  "AAAAACTGGGTGACC": [
+    7049
+  ],
+  "AAAACTGGGTGACCA": [
+    7050
+  ],
+  "AAACTGGGTGACCAC": [
+    7051
+  ],
+  "AACTGGGTGACCACC": [
+    7052
+  ],
+  "ACCACCGGCGATCCG": [
+    7061
+  ],
+  "ACCATGATTCAGTCA": [
+    7088
+  ],
+  "ACAACTGGCGTAATC": [
+    7147
+  ],
+  "AACTGGCGTAATCAT": [
+    7149
+  ],
+  "AAAGATGAACTGATT": [
+    7207
+  ],
+  "AACAACTGAACCGTG": [
+    7244
+  ],
+  "AAAGAAGAACTGGCG": [
+    7279
+  ],
+  "AAACTGCCGGTCAGG": [
+    7337
+  ],
+  "AAAATGTGCTGACCG": [
+    7370
+  ],
+  "AAAATGAGGTGGGAT": [
+    7391
+  ],
+  "AAATGAGGTGGGATC": [
+    7392
+  ],
+  "AACTGGTCACGGTCG": [
+    7442
+  ],
+  "AAGCTGCATACTGAT": [
+    7468
+  ],
+  "AACCTGTGGCATTTG": [
+    7505
+  ],
+  "AAATGACAGAGCGCG": [
+    7565
+  ],
+  "AACCTGTTCGATGCT": [
+    7626
+  ],
+  "AAACGATACGCGGGT": [
+    7660
+  ],
+  "AACGATACGCGGGTA": [
+    7661
+  ],
+  "AACGTCAGCCACCAT": [
+    7682
+  ],
+  "ACATCCGGTGAGCAG": [
+    7698
+  ],
+  "AAAATATCAGCTATG": [
+    7750
+  ],
+  "AAATATCAGCTATGC": [
+    7751
+  ],
+  "AAGGCTCCAGCCCGT": [
+    7786
+  ],
+  "ACACGCTGACCATCG": [
+    7846
+  ],
+  "AAAATTTCTGGGTAG": [
+    7867
+  ],
+  "AAATTTCTGGGTAGA": [
+    7868
+  ],
+  "AAGTTGTCATCTCTG": [
+    7907
+  ],
+  "AACCGTCGCCGCTGA": [
+    7950
+  ],
+  "AAAGGGGGATGTATG": [
+    7964
+  ],
+  "AAAAGGTCTTGAGCA": [
+    7984
+  ],
+  "AAAACCTCAGCCGTA": [
+    8007
+  ],
+  "AAAACGGCGGTGCCT": [
+    8027
+  ],
+  "AAACGGCGGTGCCTG": [
+    8028
+  ],
+  "AACCGCGTTGCTTCA": [
+    8063
+  ],
+  "AAAGGTACGCCGGAA": [
+    8119
+  ],
+  "AAACTGGTAAAGGAA": [
+    8132
+  ],
+  "AAAAGGGCCACGGTC": [
+    8159
+  ],
+  "AAAAATCCGCAGGCC": [
+    8174
+  ],
+  "AAAATCCGCAGGCCA": [
+    8175
+  ],
+  "AAAGTTAACCGGGGG": [
+    8195
+  ],
+  "AACCGGGGGGATTTG": [
+    8201
+  ],
+  "AAGCTGGGTAATGCG": [
+    8225
+  ],
+  "AAAAAGGGGCAGCGT": [
+    8270
+  ],
+  "AAAAGGGGCAGCGTT": [
+    8271
+  ],
+  "AAAGGGGCAGCGTTC": [
+    8272
+  ],
+  "AAAGGTGGCGGCAGC": [
+    8294
+  ],
+  "AACCGTCGTATTCCC": [
+    8324
+  ],
+  "AAAAATGGCCGGTGG": [
+    8360
+  ],
+  "AAAAACCGTTACCCC": [
+    8399
+  ],
+  "AAAACCGTTACCCCA": [
+    8400
+  ],
+  "AAAATCCCGATGGCG": [
+    8426
+  ],
+  "AAAATATTGAGCGGA": [
+    8466
+  ],
+  "AAAGAGCTGGGCTAT": [
+    8501
+  ],
+  "AAACATACTGAACTC": [
+    8554
+  ],
+  "AACATACTGAACTCC": [
+    8555
+  ],
+  "AACTCCGTGCAGCCG": [
+    8564
+  ],
+  "AAGCATGACACCGGG": [
+    8596
+  ],
+  "ACACCGGGGCGACGT": [
+    8603
+  ],
+  "ACCGGGGCGACGTTT": [
+    8605
+  ],
+  "ACGTTTTTTGATGGT": [
+    8614
+  ],
+  "AGGCGGATTTTCCGG": [
+    8648
+  ],
+  "ACCGGCGCTGAATAC": [
+    8680
+  ],
+  "AATACACGGGCGAAG": [
+    8690
+  ],
+  "AAGAGCTGGACAGCG": [
+    8702
+  ],
+  "AAGTTTTCCTGCCTG": [
+    8744
+  ],
+  "AGAGCTGGATGCGTG": [
+    8775
+  ],
+  "ACTGTCAGATTTGAT": [
+    8832
+  ],
+  "ACCAGTATGGTGGCC": [
+    8848
+  ],
+  "ACCGGCGCGACGATG": [
+    8876
+  ],
+  "ACCTATGAAATGTGA": [
+    8932
+  ],
+  "AAATGTGAGGACGCT": [
+    8939
+  ],
+  "AAATCCTACAATGCC": [
+    8965
+  ],
+  "AAAGGTGCCGGGACC": [
+    8984
+  ],
+  "AAGGGGAGCGGTGAC": [
+    9014
+  ],
+  "AAAAGTTAAAGACCT": [
+    9073
+  ],
+  "AAAGACCTGACGCCC": [
+    9080
+  ],
+  "AACTGACCGCTGAGT": [
+    9099
+  ],
+  "AAGATGCAGACTGGA": [
+    9141
+  ],
+  "AAATCTGCCGGAGAT": [
+    9176
+  ],
+  "AATCTGCCGGAGATA": [
+    9177
+  ],
+  "ACCAGCTTCACGCTG": [
+    9191
+  ],
+  "ACGCTGGCGTGGATG": [
+    9200
+  ],
+  "AATGAAGGCGATACC": [
+    9254
+  ],
+  "AAGGCGATACCCGTG": [
+    9258
+  ],
+  "AAAATCCGCTTCCCG": [
+    9278
+  ],
+  "AAATCCGCTTCCCGA": [
+    9279
+  ],
+  "AACGGCACGGTCGAT": [
+    9293
+  ],
+  "AAGGAAGTGATCACC": [
+    9353
+  ],
+  "AAAGTCACCAATGTG": [
+    9377
+  ],
+  "AACAGCGGCAACCGG": [
+    9427
+  ],
+  "AAAGGGCAGAGCACC": [
+    9476
+  ],
+  "AACCGACAAGAGCTT": [
+    9523
+  ],
+  "AAAACAAAAGCCACC": [
+    9557
+  ],
+  "AAAAGCCACCGTGTC": [
+    9562
+  ],
+  "AAAGCCACCGTGTCG": [
+    9563
+  ],
+  "AACGGCGTTGCTGCA": [
+    9602
+  ],
+  "AACATTCCGGTTGTA": [
+    9626
+  ],
+  "AAATTACCGTCACCG": [
+    9672
+  ],
+  "AAAACCGAATCATTT": [
+    9719
+  ],
+  "AAACCGAATCATTTG": [
+    9720
+  ],
+  "AACATAACGGTGTGA": [
+    9735
+  ],
+  "AACGGTGTGACCGTC": [
+    9740
+  ],
+  "AACTGTCAGCCCTGC": [
+    9765
+  ],
+  "AAACGGCAGGCAGAA": [
+    9806
+  ],
+  "AACAGGCGGAGTCAG": [
+    9819
+  ],
+  "AACCGGAAGTTTACT": [
+    9839
+  ],
+  "AACCGGCGCGTTTCT": [
+    9871
+  ],
+  "AACCATCCGCAGAAG": [
+    9908
+  ],
+  "AAACAGATTGAGCAG": [
+    9953
+  ],
+  "AAAACGTGGTGTACC": [
+    10011
+  ],
+  "AAACGTGGTGTACCG": [
+    10012
+  ],
+  "AACAGACAGAGGACG": [
+    10068
+  ],
+  "AAAGTGTTCGACGGT": [
+    10111
+  ],
+  "AAACTGGCGCGTGAG": [
+    10144
+  ],
+  "AACTGGCGCGTGAGA": [
+    10145
+  ],
+  "ACCCGACTGGCGTGC": [
+    10167
+  ],
+  "ACCGCTTTTACAGTA": [
+    10223
+  ],
+  "ACAGTACCCATTATT": [
+    10232
+  ],
+  "ACACCGTGCTCAGCC": [
+    10289
+  ],
+  "ACCGTGCTCAGCCTG": [
+    10291
+  ],
+  "AACCGGCGCGAGGCT": [
+    10351
+  ],
+  "AAAGCGGCAGGGCTT": [
+    10399
+  ],
+  "AAGCGGCAGGGCTTG": [
+    10400
+  ],
+  "AAGTTATCCCCGCTT": [
+    10448
+  ],
+  "AATGCTGATGACAGT": [
+    10497
+  ],
+  "AAGGGATCGCAGGAG": [
+    10517
+  ],
+  "AACCGGTAGGCGATC": [
+    10548
+  ],
+  "ACCGGTAGGCGATCT": [
+    10549
+  ],
+  "ACGAGCAGATGGCCA": [
+    10599
+  ],
+  "AAAGTGATGCGAAAA": [
+    10641
+  ],
+  "AAAAAAACAGCGGCA": [
+    10652
+  ],
+  "AAAAAACAGCGGCAG": [
+    10653
+  ],
+  "AAAAACAGCGGCAGT": [
+    10654
+  ],
+  "AAAACAGCGGCAGTC": [
+    10655
+  ],
+  "AAACAGCGGCAGTCG": [
+    10656
+  ],
+  "AAAGCGGGGATTTCC": [
+    10709
+  ],
+  "AAAGCCGCCATGCGT": [
+    10736
+  ],
+  "AAGCCGCCATGCGTA": [
+    10737
+  ],
+  "ACAGTTCACCGACGT": [
+    10762
+  ],
+  "AAAGTCCGTGGCTGA": [
+    10800
+  ],
+  "AACAGGGGGGGCAGG": [
+    10824
+  ],
+  "AAGGACTCCTTCGGC": [
+    10841
+  ],
+  "ACCCTGCCGATGGTG": [
+    10895
+  ],
+  "ACCGGTGCGCTGGCG": [
+    10934
+  ],
+  "AACTCAACCCTGTCC": [
+    10967
+  ],
+  "AACCCTGTCCGATTT": [
+    10972
+  ],
+  "AACAAAACGCTGGTC": [
+    10988
+  ],
+  "AAAACGCTGGTCCTT": [
+    10991
+  ],
+  "AAACGCTGGTCCTTT": [
+    10992
+  ],
+  "AACGCTGGTCCTTTC": [
+    10993
+  ],
+  "AATCAGGCGGGACTG": [
+    11012
+  ],
+  "ACGGCAGATCGTATG": [
+    11027
+  ],
+  "AACCAGACCAGCGAG": [
+    11084
+  ],
+  "AAGCGGTGAGGCTCA": [
+    11128
+  ],
+  "AGAGTGTGGCGCGTT": [
+    11160
+  ],
+  "ACAAGGTCGCTGAAG": [
+    11202
+  ],
+  "AAGGTCGCTGAAGCC": [
+    11204
+  ],
+  "AAGCCTTCGGGAAGC": [
+    11214
+  ],
+  "AAGCTGACCACAGAC": [
+    11225
+  ],
+  "AACGTGTCGGCGGAG": [
+    11279
+  ],
+  "AAGCCGGGGCATTGC": [
+    11334
+  ],
+  "AACGAGGCCGCAACG": [
+    11357
+  ],
+  "AACGAAAGGGTTTGA": [
+    11368
+  ],
+  "AAAGGGTTTGATGAC": [
+    11372
+  ],
+  "AAAGAGAACATGGGC": [
+    11402
+  ],
+  "AAATCCATGTGGGAT": [
+    11456
+  ],
+  "AATCCATGTGGGATG": [
+    11457
+  ],
+  "ACCGCGCAGGAGATG": [
+    11498
+  ],
+  "AAGGCAGAGGCTGCG": [
+    11519
+  ],
+  "AAGAAAGCAGACGAC": [
+    11537
+  ],
+  "AAAGCAGACGACATC": [
+    11540
+  ],
+  "AACGATGAAGCGCGG": [
+    11585
+  ],
+  "AAAAGGCCCGTCTTG": [
+    11622
+  ],
+  "AAAGAAGGCTGAGCA": [
+    11653
+  ],
+  "AAAAATGCGCAGCAG": [
+    11684
+  ],
+  "AAAATGCGCAGCAGC": [
+    11685
+  ],
+  "AAATATACCGAAGAG": [
+    11726
+  ],
+  "AAATATACCGCCCGT": [
+    11780
+  ],
+  "AAAGACGGGAAAATC": [
+    11819
+  ],
+  "AAAATCCTGCAGGCG": [
+    11828
+  ],
+  "AAAAAGGATTATGAA": [
+    11870
+  ],
+  "AAAAAGCCGAAACAG": [
+    11894
+  ],
+  "AAAAGCCGAAACAGT": [
+    11895
+  ],
+  "AAACAGTCCAGCGTG": [
+    11903
+  ],
+  "AACAGTCCAGCGTGA": [
+    11904
+  ],
+  "AAGACAGTGCTCATG": [
+    11943
+  ],
+  "AACTCCGGACGCTGG": [
+    11982
+  ],
+  "AAATGAGAAAATCAG": [
+    12013
+  ],
+  "AAAATCAGCCAGCAG": [
+    12020
+  ],
+  "AAATCAGCCAGCAGC": [
+    12021
+  ],
+  "AAGGCGGAGAGTCAG": [
+    12050
+  ],
+  "AACGTCGCCAGCTGT": [
+    12090
+  ],
+  "AAATCCCTGCTGGCG": [
+    12116
+  ],
+  "AAAGATGAGACGCTG": [
+    12134
+  ],
+  "AAACGCCAGCTGGCT": [
+    12155
+  ],
+  "AACGCCAGCTGGCTG": [
+    12156
+  ],
+  "AACGCGCTGGCGCAG": [
+    12206
+  ],
+  "AAATTCGCACAGCAG": [
+    12230
+  ],
+  "AAAACGGGCCGCCAT": [
+    12253
+  ],
+  "AAAAGCCGGGGGCTG": [
+    12275
+  ],
+  "AAAGCCGGGGGCTGA": [
+    12276
+  ],
+  "AACAGCGCCTGAAGG": [
+    12321
+  ],
+  "AACAGTATGGCGATA": [
+    12336
+  ],
+  "AAAAAGACCTGGGCG": [
+    12386
+  ],
+  "AAAAGACCTGGGCGG": [
+    12387
+  ],
+  "AAAGACCTGGGCGGC": [
+    12388
+  ],
+  "AACTGGATGGCAGGC": [
+    12422
+  ],
+  "AAGAGAGCGCCACGG": [
+    12462
+  ],
+  "AAAAAGTGCAGCCAC": [
+    12493
+  ],
+  "AAAAGTGCAGCCACG": [
+    12494
+  ],
+  "AAAGTGCAGCCACGC": [
+    12495
+  ],
+  "AAGTGCAGCCACGCA": [
+    12496
+  ],
+  "AATATGGCGGCGATG": [
+    12533
+  ],
+  "AACTGGCGCAGCTTC": [
+    12566
+  ],
+  "AAATTCTGCTTAAGC": [
+    12609
+  ],
+  "AAGCAGGCAATGGTG": [
+    12620
+  ],
+  "AATGGTGGGGATTGT": [
+    12628
+  ],
+  "AGCGCCATTGGCGGG": [
+    12656
+  ],
+  "ACAGCCATTCAGGCC": [
+    12704
+  ],
+  "AAATTCCATTTTGCA": [
+    12728
+  ],
+  "AAATATGAGCCAGCG": [
+    12770
+  ],
+  "AACCAGCCGGATTGG": [
+    12826
+  ],
+  "AATCTTTACCGGCTG": [
+    12848
+  ],
+  "ACACCGGGCAGCATG": [
+    12896
+  ],
+  "AATAACCATGTGGTG": [
+    12950
+  ],
+  "AACCATGTGGTGATT": [
+    12953
+  ],
+  "AACAACGACGGCACG": [
+    12968
+  ],
+  "AACGACGGCACGAAC": [
+    12971
+  ],
+  "AACGGGCAGATAGGT": [
+    12983
+  ],
+  "AAGGCGGTGTATGAC": [
+    13010
+  ],
+  "AAATTCAGACACAGA": [
+    13050
+  ],
+  "AAGACCTTCCGCTGG": [
+    13102
+  ],
+  "AAAGTGAAACCCGGT": [
+    13117
+  ],
+  "AAACCCGGTATGGAT": [
+    13123
+  ],
+  "AAAGGTGCGCTTTGG": [
+    13161
+  ],
+  "AAAACGTACAGCGTG": [
+    13222
+  ],
+  "AAACGTACAGCGTGA": [
+    13223
+  ],
+  "AACGTACAGCGTGAC": [
+    13224
+  ],
+  "ACAGCGTGACGCTTT": [
+    13229
+  ],
+  "AAGAGCACGGGGGCT": [
+    13286
+  ],
+  "AAATCCTTTCTGTGG": [
+    13303
+  ],
+  "AAAGGTGACCTGCGC": [
+    13344
+  ],
+  "AAAATGGTCGTCGCG": [
+    13359
+  ],
+  "AAATGGTCGTCGCGG": [
+    13360
+  ],
+  "AACAGGTGGTGAACT": [
+    13412
+  ],
+  "AAACACTGAATGAAT": [
+    13447
+  ],
+  "AAATCGACCTGACAG": [
+    13501
+  ],
+  "AAAAAGGTGAGCCGG": [
+    13558
+  ],
+  "AAAAGGTGAGCCGGT": [
+    13559
+  ],
+  "AAAGGTGAGCCGGTC": [
+    13560
+  ],
+  "AAGGTGAGCCGGTCA": [
+    13561
+  ],
+  "ACAGTATCAGCCGTA": [
+    13589
+  ],
+  "AACTGAATGGCAAAG": [
+    13627
+  ],
+  "AAAGGCACCAGTACG": [
+    13638
+  ],
+  "AACCTGTACGGTATG": [
+    13674
+  ],
+  "AACGGTGGTCCGGCG": [
+    13730
+  ],
+  "AACGGAAACAGTTAC": [
+    13785
+  ],
+  "AAACAGTTACGCCGA": [
+    13790
+  ],
+  "AACAGTTACGCCGAT": [
+    13791
+  ],
+  "AACTGAGCGCGGTGA": [
+    13852
+  ],
+  "AAACGGATGGCGCTG": [
+    13897
+  ],
+  "AACACCTGCACCTGG": [
+    13938
+  ],
+  "ACACCTGCACCTGGA": [
+    13939
+  ],
+  "ACCTATCGCGGTGAC": [
+    13953
+  ],
+  "AATATGACCAGCCAA": [
+    14002
+  ],
+  "AACGTCCGATATCAC": [
+    14015
+  ],
+  "AAATGCAGCAAATGC": [
+    14037
+  ],
+  "AAATGCCTGAGCGGT": [
+    14046
+  ],
+  "AACGTCGGCAACTTT": [
+    14076
+  ],
+  "AACAAACTTTCGCAG": [
+    14109
+  ],
+  "AAACTTTCGCAGTAA": [
+    14112
+  ],
+  "AAATCCCATGACACA": [
+    14125
+  ],
+  "AATCAGCGATTCTGG": [
+    14145
+  ],
+  "AAGCACGCCGGAGGG": [
+    14206
+  ],
+  "AAAGATATTTCCCCT": [
+    14223
+  ],
+  "AAGATATTTCCCCTG": [
+    14224
+  ],
+  "AAGACTGGCTGCAGG": [
+    14285
+  ],
+  "AAATGCAGGGTGAGA": [
+    14303
+  ],
+  "AATGCAGGGTGAGAT": [
+    14304
+  ],
+  "ACAGCCACCCCGGTG": [
+    14333
+  ],
+  "ACCCCGGTGGTCTGC": [
+    14339
+  ],
+  "ACCGGCGGCTGCAGG": [
+    14372
+  ],
+  "ACGATTCATAAGTTC": [
+    14425
+  ],
+  "AAGTTCCGCTGTGTG": [
+    14434
+  ],
+  "ACACACTGTTCCGGG": [
+    14495
+  ],
+  "ACACTGTTCCGGGAT": [
+    14497
+  ],
+  "ACTGTTCCGGGATGC": [
+    14499
+  ],
+  "ACTTTCATCGTGAGG": [
+    14543
+  ],
+  "ACTGGTGGCGTAACG": [
+    14561
+  ],
+  "AACGGCCAGAATCTC": [
+    14572
+  ],
+  "AATCTCTATCTGGAT": [
+    14581
+  ],
+  "AATCTGGAGGCGACG": [
+    14596
+  ],
+  "ACAGCCGGGCGATGT": [
+    14640
+  ],
+  "AATCACGCCGCAATT": [
+    14686
+  ],
+  "AACAACTGAGCAAAC": [
+    14738
+  ],
+  "AAACGAGAGAGGTAC": [
+    14749
+  ],
+  "AAATGGCAGCGACGC": [
+    14770
+  ],
+  "AATGGCAGCGACGCA": [
+    14771
+  ],
+  "ACACACTCCCTCTGG": [
+    14785
+  ],
+  "ACAACGATTTGGTCG": [
+    14840
+  ],
+  "AACGATTTGGTCGCC": [
+    14842
+  ],
+  "AAAACGGGGGCTGAA": [
+    14874
+  ],
+  "AAACGGGGGCTGAAG": [
+    14875
+  ],
+  "AAACTGAGCGACGGC": [
+    14931
+  ],
+  "AACTGAGCGACGGCT": [
+    14932
+  ],
+  "AACGGCGCAGTTACA": [
+    14993
+  ],
+  "AATTCATATTGTTCC": [
+    15032
+  ],
+  "AAGTCAGGTGGCGTA": [
+    15063
+  ],
+  "ACCGCCGGAGCCACC": [
+    15123
+  ],
+  "ACCCTTGCAGCATGG": [
+    15135
+  ],
+  "ACCGGCATCCTGTTT": [
+    15177
+  ],
+  "AGATGCTGGCACCGA": [
+    15229
+  ],
+  "ACCGAAAGCCAGAAC": [
+    15239
+  ],
+  "AAAGCCAGAACTCCC": [
+    15243
+  ],
+  "AACACCTATTTCTCC": [
+    15288
+  ],
+  "AACATGGTTGCCCAG": [
+    15312
+  ],
+  "AAATGCGCGTGGGGT": [
+    15355
+  ],
+  "AAGGGGACGGTGGTC": [
+    15406
+  ],
+  "AAAATGTTTTATGTG": [
+    15447
+  ],
+  "AAACCGCCTGCGGGC": [
+    15462
+  ],
+  "AAAGGAAGCAGTAAG": [
+    15510
+  ],
+  "AACCTGAAGTCCACG": [
+    15552
+  ],
+  "AAGGGCCGATTGAAG": [
+    15598
+  ],
+  "AAAAAGCGTGCTGCT": [
+    15629
+  ],
+  "AAAAGCGTGCTGCTG": [
+    15630
+  ],
+  "AAAGCGTGCTGCTGA": [
+    15631
+  ],
+  "AACAGTACGCCGGTG": [
+    15645
+  ],
+  "AACATATCCGGTGTC": [
+    15681
+  ],
+  "ACATATCCGGTGTCA": [
+    15682
+  ],
+  "ACGGTGGTGTTCCGG": [
+    15696
+  ],
+  "AATCCTCCGGCTCCG": [
+    15748
+  ],
+  "AAGTGAAATATGACA": [
+    15781
+  ],
+  "AAATATGACACGCCG": [
+    15786
+  ],
+  "AAACATCGACCGTCT": [
+    15824
+  ],
+  "AAACCACCTCAAAGG": [
+    15871
+  ],
+  "AAAGGGTGACAGGAA": [
+    15881
+  ],
+  "AACGGTGGCTGGGTG": [
+    15933
+  ],
+  "AAAAAGACATCACCA": [
+    15952
+  ],
+  "AAAACCACCTCGCAG": [
+    15975
+  ],
+  "AAACCACCTCGCAGT": [
+    15976
+  ],
+  "AACCACCTCGCAGTA": [
+    15977
+  ],
+  "AACCTGCCGCCGCGC": [
+    16014
+  ],
+  "AATATCCGGATGCGC": [
+    16035
+  ],
+  "AACAAAACGCTCTGG": [
+    16086
+  ],
+  "AAAACGCTCTGGTCG": [
+    16089
+  ],
+  "AAACAGTGCTACCCG": [
+    16128
+  ],
+  "AACACGGCACTGGTC": [
+    16143
+  ],
+  "ACACGGCACTGGTCG": [
+    16144
+  ],
+  "ACGGCACTGGTCGGC": [
+    16146
+  ],
+  "AATTATCATCTGCGC": [
+    16206
+  ],
+  "AACTATAACCCGCAG": [
+    16245
+  ],
+  "AACCCGCAGACGCGG": [
+    16251
+  ],
+  "AAACCGGCATACAGC": [
+    16296
+  ],
+  "AACAACATGGCCTGG": [
+    16311
+  ],
+  "AAACGTCTTGGTGCG": [
+    16368
+  ],
+  "AAATGGGCGCTGTAT": [
+    16395
+  ],
+  "AATGGGCGCTGTATG": [
+    16396
+  ],
+  "ACCAGTCAGTGCCGG": [
+    16429
+  ],
+  "AATGCGTACCTGACC": [
+    16479
+  ],
+  "AAGGCGTGGGATGTG": [
+    16503
+  ],
+  "AACGGGCAGACGCTG": [
+    16560
+  ],
+  "AACCGCAGTAATGTG": [
+    16617
+  ],
+  "AATGTGGTGATGCCG": [
+    16626
+  ],
+  "AAGGACCGCCATAAT": [
+    16680
+  ],
+  "AACTGGATTGACCCG": [
+    16707
+  ],
+  "AACAACGGCTGGGAG": [
+    16722
+  ],
+  "AACGGCTGGGAGACG": [
+    16725
+  ],
+  "AAGATACGCAGGCCA": [
+    16756
+  ],
+  "AAGATGGATGCCTTT": [
+    16797
+  ],
+  "ACACCGCGCCGGGCT": [
+    16835
+  ],
+  "AAAACAGAACTGCTG": [
+    16860
+  ],
+  "AAACAGAACTGCTGG": [
+    16861
+  ],
+  "AAACGCAGACCGTGG": [
+    16876
+  ],
+  "AACGCAGACCGTGGA": [
+    16877
+  ],
+  "AAGGGCTTCGCCATG": [
+    16909
+  ],
+  "AAATCTGCGATGATG": [
+    16942
+  ],
+  "AACAGCCAGACCCGG": [
+    16998
+  ],
+  "AAATCACGCTGCCAT": [
+    17032
+  ],
+  "AAGCCTGGTTGACGG": [
+    17066
+  ],
+  "AAGTGGCAATCCGGT": [
+    17081
+  ],
+  "AAGGTAAAAGTGAGC": [
+    17130
+  ],
+  "AAAAGTGAGCCGTGT": [
+    17135
+  ],
+  "AAAGTGAGCCGTGTT": [
+    17136
+  ],
+  "AAGCTGCCGACGCTG": [
+    17187
+  ],
+  "AACGACGACGGCACG": [
+    17238
+  ],
+  "AAAAAGAGGCCATCG": [
+    17284
+  ],
+  "AAAAGAGGCCATCGT": [
+    17285
+  ],
+  "AAAGAGGCCATCGTG": [
+    17286
+  ],
+  "AACAGAGTGGCACGG": [
+    17326
+  ],
+  "AAGTCACTGCAGACA": [
+    17383
+  ],
+  "AAGGTGGTGAAGGGC": [
+    17436
+  ],
+  "AAGGGCGTGAGTTTC": [
+    17445
+  ],
+  "AACAGCGGACGACGG": [
+    17477
+  ],
+  "AAACCACATACCGCT": [
+    17527
+  ],
+  "AAATGCGTGGGGGCA": [
+    17588
+  ],
+  "AATGCGTGGGGGCAG": [
+    17589
+  ],
+  "ACCGGCAGCACCGTC": [
+    17642
+  ],
+  "AACCGCCACGCCGCA": [
+    17690
+  ],
+  "ACAGTTTGAGTTCTG": [
+    17729
+  ],
+  "AAAAGCAGATTGCGG": [
+    17752
+  ],
+  "AAACCAGCACGCGTT": [
+    17782
+  ],
+  "AAACCGGGCCATGAT": [
+    17841
+  ],
+  "AAATCGGCATTCGTG": [
+    17892
+  ],
+  "AAGGTTACCTGGATT": [
+    17938
+  ],
+  "AAAGGCAAGATAACC": [
+    17958
+  ],
+  "AAAAAGTCGAGCTGA": [
+    18001
+  ],
+  "AAAAGTCGAGCTGAC": [
+    18002
+  ],
+  "AAAGAGTGGAAGGAT": [
+    18051
+  ],
+  "AAAATTGAGCAGACC": [
+    18099
+  ],
+  "AAACATTATGTCGCG": [
+    18123
+  ],
+  "AAACTGAGCCAGTTT": [
+    18174
+  ],
+  "AAACGGGAATGAAAC": [
+    18227
+  ],
+  "AAACGCCGATGTTTG": [
+    18238
+  ],
+  "AACCAGATATTCATG": [
+    18264
+  ],
+  "AACGACGTGTTCCTG": [
+    18279
+  ],
+  "AAGCGCCTGACGGCC": [
+    18294
+  ],
+  "AATCCTCCGGCCTTT": [
+    18330
+  ],
+  "AAAGCTGACCGCTAA": [
+    18362
+  ],
+  "AAAAATGCGGATATC": [
+    18375
+  ],
+  "AAAATGCGGATATCA": [
+    18376
+  ],
+  "AAATGCGGATATCAG": [
+    18377
+  ],
+  "AACTCCGGGACGCTC": [
+    18408
+  ],
+  "AAAACTGTACGATAA": [
+    18442
+  ],
+  "AAAAAATCGTCGGGG": [
+    18475
+  ],
+  "AAAAATCGTCGGGGA": [
+    18476
+  ],
+  "AAAATCGTCGGGGAC": [
+    18477
+  ],
+  "AAAGCAGTGTGGACT": [
+    18532
+  ],
+  "AAGCAGTGTGGACTG": [
+    18533
+  ],
+  "ACCATCCTTTTGATC": [
+    18583
+  ],
+  "AAGTAAGCGTACTGT": [
+    18632
+  ],
+  "AAGCGTACTGTCAGC": [
+    18636
+  ],
+  "AACGTATTCGATGTG": [
+    18659
+  ],
+  "AAAGTACTGATGAAC": [
+    18681
+  ],
+  "AACGAGGCGGTACAG": [
+    18723
+  ],
+  "AAACGTGATCCTGAC": [
+    18776
+  ],
+  "AACGTGATCCTGACG": [
+    18777
+  ],
+  "ACACGGCATTCGGCA": [
+    18807
+  ],
+  "ACGGCATTCGGCAGA": [
+    18809
+  ],
+  "AAGAAACAGGCGCTG": [
+    18870
+  ],
+  "AAACAGGCGCTGGGC": [
+    18873
+  ],
+  "AACAGGCGCTGGGCA": [
+    18874
+  ],
+  "AACGGGCGTTTTATT": [
+    18927
+  ],
+  "AAAACAGTGAGAGGT": [
+    18944
+  ],
+  "AAACAGTGAGAGGTG": [
+    18945
+  ],
+  "AACAGTGAGAGGTGA": [
+    18946
+  ],
+  "AACGATGCGTAATGT": [
+    18960
+  ],
+  "AATGTGTGTATTGCC": [
+    18970
+  ],
+  "ACAGTCACTCCGGCC": [
+    19012
+  ],
+  "AAGGTGGACATGGTA": [
+    19034
+  ],
+  "AAACCGGGTACATTG": [
+    19075
+  ],
+  "AAAGGGATTAACGTG": [
+    19129
+  ],
+  "AACGTGAAGTACCGT": [
+    19138
+  ],
+  "AAGTACCGTTATGAG": [
+    19144
+  ],
+  "ACAGTGTGGGGGTGA": [
+    19166
+  ],
+  "AAAAAGAGCAGCACA": [
+    19207
+  ],
+  "AAAAGAGCAGCACAG": [
+    19208
+  ],
+  "AAAGAGCAGCACAGT": [
+    19209
+  ],
+  "AAGAGCAGCACAGTG": [
+    19210
+  ],
+  "ACAGTGATGACCGGG": [
+    19219
+  ],
+  "ACCGGGGAGGATACG": [
+    19228
+  ],
+  "ACGTTATGTGAGCGT": [
+    19266
+  ],
+  "ACCGGTTTTACAAAT": [
+    19290
+  ],
+  "ACAAATCAGTAAGCA": [
+    19299
+  ],
+  "AAATCAGTAAGCAGG": [
+    19301
+  ],
+  "AAGCAGGTCAGTGCG": [
+    19309
+  ],
+  "AATGGATTACCGTAA": [
+    19368
+  ],
+  "AAGACGGAAATCACT": [
+    19381
+  ],
+  "AAATCACTCCCGGGT": [
+    19388
+  ],
+  "AAAGAGACGACCACT": [
+    19408
+  ],
+  "AAAGTGCAATGCGGC": [
+    19433
+  ],
+  "AAGTGCAATGCGGCA": [
+    19434
+  ],
+  "AATCCGGCAGCGTCC": [
+    19483
+  ],
+  "AAGGCTCCGGCAGTG": [
+    19520
+  ],
+  "AAATTCTGATTAGCC": [
+    19576
+  ],
+  "AACACAGTGTTATGA": [
+    19595
+  ],
+  "AACCGGTGGGCTTTT": [
+    19621
+  ],
+  "AAAGATTTCAGGAGT": [
+    19657
+  ],
+  "AAAGACGGCACAGGA": [
+    19676
+  ],
+  "AAAACCGGTACAGAA": [
+    19690
+  ],
+  "AAACCGGTACAGAAC": [
+    19691
+  ],
+  "AAAGCCAGACGTAAC": [
+    19721
+  ],
+  "AACACGGTGGGCTCA": [
+    19754
+  ],
+  "AAGCCGGGCGTTACA": [
+    19782
+  ],
+  "ACAGCATGGATGTGG": [
+    19794
+  ],
+  "ACAGTGTCATCCTGC": [
+    19821
+  ],
+  "ACCATCACCGTGTAT": [
+    19868
+  ],
+  "AAGATTCACAACCGG": [
+    19884
+  ],
+  "AACCGGGGACGCTGA": [
+    19893
+  ],
+  "AATGATTTTCTCTGT": [
+    19907
+  ],
+  "AACTGATGGTGGAAG": [
+    19968
+  ],
+  "AACGCGTCCGTGGTG": [
+    19994
+  ],
+  "AAATCAGCCGGCGAT": [
+    20033
+  ],
+  "AACTGACTCAGCACG": [
+    20092
+  ],
+  "AAGCGTCCTCCGGCG": [
+    20151
+  ],
+  "AAGCGGCATCAGCAA": [
+    20169
+  ],
+  "AAAGGCCACTGAAGC": [
+    20182
+  ],
+  "AAAAAAGTGCCGCAG": [
+    20199
+  ],
+  "AAAAAACGCGGCGGC": [
+    20227
+  ],
+  "AAAAACGCGGCGGCC": [
+    20228
+  ],
+  "AAAACGCGGCGGCCA": [
+    20229
+  ],
+  "AAAACGTCAGAAACG": [
+    20261
+  ],
+  "AAACGAATGCTGCAG": [
+    20271
+  ],
+  "AAAGCGTCAGAGGCC": [
+    20330
+  ],
+  "AAAAGAGGCAGCAAA": [
+    20374
+  ],
+  "AAAATCATCAGAAAC": [
+    20386
+  ],
+  "AAACGAACGCATCAT": [
+    20397
+  ],
+  "AAAATTCTGCCAGGG": [
+    20451
+  ],
+  "AAAAACGTCCGAGAC": [
+    20470
+  ],
+  "AAAACGTCCGAGACG": [
+    20471
+  ],
+  "AAACAGCAGCGGAAC": [
+    20502
+  ],
+  "AAAAACAGCGGCGGC": [
+    20542
+  ],
+  "AAAACAGCGGCGGCG": [
+    20543
+  ],
+  "AAACAGCGGCGGCGG": [
+    20544
+  ],
+  "AACAGCGGCGGCGGG": [
+    20545
+  ],
+  "AACGGCATCCACGAA": [
+    20569
+  ],
+  "AAAAGTGCGGCAGAA": [
+    20627
+  ],
+  "AAAAAATTCGGCAAA": [
+    20659
+  ],
+  "AAAAATTCGGCAAAA": [
+    20660
+  ],
+  "AAAACGTGCAGAAGA": [
+    20671
+  ],
+  "AAACGTGCAGAAGAT": [
+    20672
+  ],
+  "AAAGGGGATAGTGCA": [
+    20728
+  ],
+  "AAACGCTTGCTGCAA": [
+    20772
+  ],
+  "AAACGAACAGAAAAG": [
+    20817
+  ],
+  "AAAAGCCCACTGGAC": [
+    20827
+  ],
+  "AAAGCCCACTGGACA": [
+    20828
+  ],
+  "AACAAACAATACCCA": [
+    20889
+  ],
+  "AAACAATACCCAGAT": [
+    20892
+  ],
+  "AACAATACCCAGATT": [
+    20893
+  ],
+  "AACACCGCTTTTGTA": [
+    20911
+  ],
+  "AATACGCTGAATGAA": [
+    20971
+  ],
+  "AACTGGCCGCAGCGC": [
+    20984
+  ],
+  "AACGCGCTTGCGGGT": [
+    21034
+  ],
+  "AAACAACCGAAGAAT": [
+    21049
+  ],
+  "AAAAATAAATTACCG": [
+    21100
+  ],
+  "AAAATAAATTACCGT": [
+    21101
+  ],
+  "AAAATGATGCCGCCA": [
+    21125
+  ],
+  "AAAAAATTCCGTTGC": [
+    21180
+  ],
+  "AAAAATTCCGTTGCA": [
+    21181
+  ],
+  "AAAATTCCGTTGCAG": [
+    21182
+  ],
+  "AAATTCCGTTGCAGA": [
+    21183
+  ],
+  "AATACCTTGGGGCCG": [
+    21206
+  ],
+  "AATTCGGCCTTTCCG": [
+    21226
+  ],
+  "ACGTCCTGATGCAGG": [
+    21287
+  ],
+  "ACAAATCAGCCTACC": [
+    21314
+  ],
+  "AAATCAGCCTACCCA": [
+    21316
+  ],
+  "AAAACTTGCTGTCGC": [
+    21330
+  ],
+  "AAACTTGCTGTCGCG": [
+    21331
+  ],
+  "AACTTGCTGTCGCGT": [
+    21332
+  ],
+  "AAGGGGAAACCCGCC": [
+    21388
+  ],
+  "AAACCCGCCAGCGGT": [
+    21394
+  ],
+  "AACAGGATGGAATTA": [
+    21428
+  ],
+  "AAGTCGCACACCCAC": [
+    21442
+  ],
+  "AAAACCACATCGTCG": [
+    21490
+  ],
+  "AAAACAACAGGCAGT": [
+    21520
+  ],
+  "AAACAACAGGCAGTT": [
+    21521
+  ],
+  "AAATCGACGAATAAC": [
+    21550
+  ],
+  "AACACGGGGGCTCAT": [
+    21562
+  ],
+  "AACAGGGGCCGCGGG": [
+    21597
+  ],
+  "AACAGTTCTGGCTGG": [
+    21643
+  ],
+  "AACAGCAACCATTAC": [
+    21669
+  ],
+  "AAAGGAACCAGCACA": [
+    21703
+  ],
+  "AAAACGGACAGTCAG": [
+    21739
+  ],
+  "AAACGGACAGTCAGG": [
+    21740
+  ],
+  "AACGGACAGTCAGGG": [
+    21741
+  ],
+  "ACAGCCGTGAGTGCC": [
+    21781
+  ],
+  "ACAGTTGGTATTGGT": [
+    21811
+  ],
+  "ACCAGCATCCGGTTG": [
+    21830
+  ],
+  "ACACGGACACACCAT": [
+    21882
+  ],
+  "ACACACCATCACCGT": [
+    21888
+  ],
+  "AACGCTGCGGGTAAC": [
+    21904
+  ],
+  "AACGCGGAAAACACC": [
+    21916
+  ],
+  "AAAACACCGTCAAAA": [
+    21923
+  ],
+  "AAAAACATTGCATTT": [
+    21934
+  ],
+  "AAAACATTGCATTTA": [
+    21935
+  ],
+  "AAACATTGCATTTAA": [
+    21936
+  ],
+  "AACAACCACGGACCA": [
+    21991
+  ],
+  "AAAAATTTATAATCT": [
+    22007
+  ],
+  "AAAATTTATAATCTG": [
+    22008
+  ],
+  "AAATTTATAATCTGC": [
+    22009
+  ],
+  "AACTAATGAATTTAT": [
+    22031
+  ],
+  "AAACAGTACCGATAT": [
+    22091
+  ],
+  "AACAGTACCGATATT": [
+    22092
+  ],
+  "AACAGTGATGAGGCA": [
+    22146
+  ],
+  "AAAACCGTCTATGAC": [
+    22191
+  ],
+  "AAACCGTCTATGACG": [
+    22192
+  ],
+  "AACCGTCTATGACGT": [
+    22193
+  ],
+  "AACTCGGTCCGTTAC": [
+    22237
+  ],
+  "AAAATTTTACCTGGT": [
+    22255
+  ],
+  "AAATTTTACCTGGTT": [
+    22256
+  ],
+  "AACGGCACAGCCTGG": [
+    22299
+  ],
+  "AAAAACTGTTCCGGA": [
+    22333
+  ],
+  "AAAAAAAAGCCTGAT": [
+    22367
+  ],
+  "AAAAAAAGCCTGATG": [
+    22368
+  ],
+  "AAAAAAGCCTGATGC": [
+    22369
+  ],
+  "AAAAAGCCTGATGCA": [
+    22370
+  ],
+  "AAAAGCCTGATGCAG": [
+    22371
+  ],
+  "AAAGCCTGATGCAGG": [
+    22372
+  ],
+  "AAATTGCAACGAAGG": [
+    22432
+  ],
+  "AAACCTCGTTGCTGG": [
+    22450
+  ],
+  "AACCGTGTTGATACA": [
+    22494
+  ],
+  "AACTGCACCTGATAT": [
+    22511
+  ],
+  "AATCGTTTTGTGATA": [
+    22555
+  ],
+  "AAACGTTGTATGAAA": [
+    22578
+  ],
+  "AAAGCTGAGTATTGG": [
+    22622
+  ],
+  "AAGCTGAGTATTGGT": [
+    22623
+  ],
+  "AAGTTCTATGACTCA": [
+    22673
+  ],
+  "AAGACTGAACGCATG": [
+    22725
+  ],
+  "AACGCATGAAATATG": [
+    22732
+  ],
+  "AAATATGGTTTTTCG": [
+    22740
+  ],
+  "AAAGTCGGTTTTTTT": [
+    22785
+  ],
+  "AAATACATTTTTGAT": [
+    22828
+  ],
+  "AAGTCTTTCATCTAT": [
+    22871
+  ],
+  "AATTGGCATTGTATG": [
+    22886
+  ],
+  "AGATGCTTGCTTTTC": [
+    22918
+  ],
+  "AAATGAAGCCATAGG": [
+    22954
+  ],
+  "AAAAAATATATTTAT": [
+    23005
+  ],
+  "AAAAATATATTTATC": [
+    23006
+  ],
+  "AAAATATATTTATCT": [
+    23007
+  ],
+  "AAATATATTTATCTG": [
+    23008
+  ],
+  "AAATCAATTGGATGG": [
+    23049
+  ],
+  "AAAAAATTAATGTTT": [
+    23077
+  ],
+  "AAAAAAGTCGTTTCT": [
+    23112
+  ],
+  "AAAAAGTCGTTTCTG": [
+    23113
+  ],
+  "AAAAGTCGTTTCTGC": [
+    23114
+  ],
+  "AAAGTCGTTTCTGCA": [
+    23115
+  ],
+  "AACTAACTCTTCTGT": [
+    23147
+  ],
+  "AACTCTTCTGTCGAA": [
+    23151
+  ],
+  "AAGTGATATTTTTAG": [
+    23164
+  ],
+  "AATATCTTCAGGAAT": [
+    23207
+  ],
+  "AAATGACAATTTGCT": [
+    23249
+  ],
+  "AAATAAGTTATTCTC": [
+    23286
+  ],
+  "AAATAAAGAGTCGAA": [
+    23312
+  ],
+  "AAAGAGTCGAATGAT": [
+    23316
+  ],
+  "AAATCACATCGTCAC": [
+    23338
+  ],
+  "AAGAGAGTTACAGCA": [
+    23378
+  ],
+  "AAGGCATGTAATAAT": [
+    23421
+  ],
+  "AATAATAGATGATTC": [
+    23480
+  ],
+  "AAATATGAAGGTAAT": [
+    23499
+  ],
+  "AACATACTTTCATTT": [
+    23556
+  ],
+  "AAACTCAATGTCATT": [
+    23576
+  ],
+  "AAATAAGAGTAGCCT": [
+    23608
+  ],
+  "AAATCGCCTTGTTTT": [
+    23643
+  ],
+  "AAGCCATTAATGGAT": [
+    23686
+  ],
+  "AACATTATTGTTATA": [
+    23720
+  ],
+  "AAATGTCATATCCTA": [
+    23737
+  ],
+  "AAATGTTACTGTTCT": [
+    23780
+  ],
+  "AAATAATTCAGGGTC": [
+    23828
+  ],
+  "AAAATATGTATCAAT": [
+    23843
+  ],
+  "AAATATGTATCAATG": [
+    23844
+  ],
+  "AAATCTTTAAGTCTT": [
+    23880
+  ],
+  "AAAACTCTCCATTTT": [
+    23918
+  ],
+  "AAAATTAACTGCTTA": [
+    23974
+  ],
+  "AAATTAACTGCTTAA": [
+    23975
+  ],
+  "AACTGCTTAACTGTC": [
+    23980
+  ],
+  "AAACCATATAGTAAA": [
+    24038
+  ],
+  "AAATTAGTTACACAG": [
+    24050
+  ],
+  "AAAATTAGAGTTGTG": [
+    24103
+  ],
+  "AAATTAGAGTTGTGG": [
+    24104
+  ],
+  "AACACGTTGCTCATA": [
+    24131
+  ],
+  "AACGTGCTGCGGCTG": [
+    24183
+  ],
+  "AACTTCCGATAGTGC": [
+    24205
+  ],
+  "AATGATTTCCAGTTG": [
+    24228
+  ],
+  "AATTTGTACCACCTC": [
+    24274
+  ],
+  "ACCACCTCCCACCGA": [
+    24281
+  ],
+  "ACCATCTATGACTGT": [
+    24295
+  ],
+  "ACATTACAAACGTCC": [
+    24347
+  ],
+  "ACAAACGTCCTTCTC": [
+    24352
+  ],
+  "AAACGTCCTTCTCGG": [
+    24354
+  ],
+  "AACGTCCTTCTCGGT": [
+    24355
+  ],
+  "AAGTTACTACCGGAT": [
+    24412
+  ],
+  "AAAAACAGCCCTCCT": [
+    24432
+  ],
+  "AAAAAGTATTCGTTC": [
+    24452
+  ],
+  "AAAAGTATTCGTTCA": [
+    24453
+  ],
+  "AAAGTATTCGTTCAC": [
+    24454
+  ],
+  "AAGCGTCGTAATTTT": [
+    24476
+  ],
+  "AAAAAATCTTCCGAG": [
+    24521
+  ],
+  "AAAAATCTTCCGAGT": [
+    24522
+  ],
+  "AAAATCTTCCGAGTT": [
+    24523
+  ],
+  "AAATCTTCCGAGTTT": [
+    24524
+  ],
+  "AACTCTTTTCCAATA": [
+    24556
+  ],
+  "AAATCTATAATAGGT": [
+    24587
+  ],
+  "AAACGTTGCGGTTGA": [
+    24640
+  ],
+  "AAAGAGTTTCTTTGA": [
+    24680
+  ],
+  "AAACGATACCTGTTA": [
+    24728
+  ],
+  "AAATGATGAAGAGCT": [
+    24761
+  ],
+  "AAAAACTGATAGCAC": [
+    24819
+  ],
+  "AAAAAAAATGTCCTT": [
+    24877
+  ],
+  "AAAAAAATGTCCTTG": [
+    24878
+  ],
+  "AAAAAATGTCCTTGT": [
+    24879
+  ],
+  "AAAAATGTCCTTGTC": [
+    24880
+  ],
+  "AAAACTTGACCTTTC": [
+    24935
+  ],
+  "AAACTTGACCTTTCT": [
+    24936
+  ],
+  "AAATTAATAGGCATC": [
+    24983
+  ],
+  "AAAATTCAGGATAAT": [
+    25002
+  ],
+  "AAAATGATCTATATT": [
+    25030
+  ],
+  "AAAATGGACATTTTT": [
+    25068
+  ],
+  "AAACAAGCATGTCAT": [
+    25092
+  ],
+  "AACAAGCATGTCATC": [
+    25093
+  ],
+  "AAGCATGTCATCGTA": [
+    25096
+  ],
+  "AAAGCTTTTCTAATT": [
+    25155
+  ],
+  "AACCTTTGTCAGGTT": [
+    25171
+  ],
+  "AACTACTAAGGTTGT": [
+    25189
+  ],
+  "AAATAACTGACCTGT": [
+    25234
+  ],
+  "AAAAAAGTGGGGAAG": [
+    25283
+  ],
+  "AAAAAGTGGGGAAGT": [
+    25284
+  ],
+  "AAAAGTGGGGAAGTG": [
+    25285
+  ],
+  "AAAGTGGGGAAGTGA": [
+    25286
+  ],
+  "AAATTATTTCTAACA": [
+    25307
+  ],
+  "AACATTTATCTGCAT": [
+    25318
+  ],
+  "AAGCATTTCGCTATA": [
+    25354
+  ],
+  "AAGAGGTAGTTTTTT": [
+    25381
+  ],
+  "AAAACGGTTCGACCT": [
+    25438
+  ],
+  "AAACGGTTCGACCTT": [
+    25439
+  ],
+  "AAAGCTCTGAATCAA": [
+    25499
+  ],
+  "AACGGACTGCGATAA": [
+    25512
+  ],
+  "AAAAACACCTCACGA": [
+    25561
+  ],
+  "AAAACACCTAAGTTC": [
+    25579
+  ],
+  "AAACACCTAAGTTCT": [
+    25580
+  ],
+  "AACACCTAAGTTCTC": [
+    25581
+  ],
+  "AAGTTCTCACCGAAT": [
+    25588
+  ],
+  "AATATCCGGACGGAT": [
+    25608
+  ],
+  "AATATTTATTGCTTC": [
+    25623
+  ],
+  "AACCTCTTGCAGTAC": [
+    25674
+  ],
+  "AATGAGTTGCAATTA": [
+    25697
+  ],
+  "AAGTCGCTTAATGTT": [
+    25738
+  ],
+  "AAAAAAGCAGAGAGC": [
+    25756
+  ],
+  "AAAAAGCAGAGAGCA": [
+    25757
+  ],
+  "AAAACTAATGACTTT": [
+    25807
+  ],
+  "AAAACAATTGCATGT": [
+    25858
+  ],
+  "AAAACAATTTAGTGA": [
+    25913
+  ],
+  "AAACAATTTAGTGAA": [
+    25914
+  ],
+  "AACAATTTAGTGAAT": [
+    25915
+  ],
+  "AACTCTTCATATTTA": [
+    25969
+  ],
+  "AAATGAGGCTGATGA": [
+    25985
+  ],
+  "AAAAGTTTTCATCAC": [
+    26012
+  ],
+  "AAAGTTTTCATCACT": [
+    26013
+  ],
+  "AAGCCAGAGTTGTCT": [
+    26049
+  ],
+  "AACCAATAAATGCTG": [
+    26084
+  ],
+  "AAATGCTGAAATGAA": [
+    26091
+  ],
+  "AAATGAATTCTAAGC": [
+    26099
+  ],
+  "AAACTATTGCTGGCA": [
+    26134
+  ],
+  "AAAAGTATTGTGTAC": [
+    26168
+  ],
+  "AAAAGGATCAAATGC": [
+    26217
+  ],
+  "AAAATATCCCTTTGG": [
+    26259
+  ],
+  "AAAAAATATTCATTG": [
+    26308
+  ],
+  "AAAAATATTCATTGT": [
+    26309
+  ],
+  "AAAATATTCATTGTT": [
+    26310
+  ],
+  "AAAATTGTTGTTTTA": [
+    26359
+  ],
+  "AAAAGCATGAATGTT": [
+    26394
+  ],
+  "AAAAGGTATAGTTAA": [
+    26439
+  ],
+  "AAAAGTGGAAATCTG": [
+    26489
+  ],
+  "AAACCATTTAACACA": [
+    26515
+  ],
+  "AAAGAGTTACCCCTC": [
+    26555
+  ],
+  "AAGAGTTACCCCTCT": [
+    26556
+  ],
+  "AAGGACGCTTTCATT": [
+    26586
+  ],
+  "AAATCCTGAATAGCT": [
+    26635
+  ],
+  "AAAACCATCGCTTAA": [
+    26667
+  ],
+  "AAAAAAACATTTCAG": [
+    26723
+  ],
+  "AAAAAACATTTCAGG": [
+    26724
+  ],
+  "AAAAACATTTCAGGG": [
+    26725
+  ],
+  "AAAACATTTCAGGGA": [
+    26726
+  ],
+  "AAACATTTCAGGGAG": [
+    26727
+  ],
+  "AACATTTCAGGGAGT": [
+    26728
+  ],
+  "AAGTGCTTACTTCTT": [
+    26771
+  ],
+  "AAAACCAATTTTAAC": [
+    26799
+  ],
+  "AAACCAATTTTAACA": [
+    26800
+  ],
+  "AAAACATTGTAACAA": [
+    26861
+  ],
+  "AAACATTGTAACAAA": [
+    26862
+  ],
+  "AAAGGAATAGTCATT": [
+    26874
+  ],
+  "AACCATCTGCTCGTA": [
+    26891
+  ],
+  "AATAACACTAAACTC": [
+    26952
+  ],
+  "AACACTAAACTCCAA": [
+    26955
+  ],
+  "AAACTCCAACATATA": [
+    26961
+  ],
+  "AAAATAACCGCAATT": [
+    26994
+  ],
+  "AAATAACCGCAATTT": [
+    26995
+  ],
+  "AACACAGGATCTCTC": [
+    27020
+  ],
+  "AAAAATTAGTAGTAT": [
+    27071
+  ],
+  "AAAATTAGTAGTATT": [
+    27072
+  ],
+  "AAATTAGTAGTATTG": [
+    27073
+  ],
+  "AACGGGGCATCGTAT": [
+    27093
+  ],
+  "AACCCACTGTTATTC": [
+    27147
+  ],
+  "AACGATATAGTCTAT": [
+    27188
+  ],
+  "AACGATTAGCTCTTC": [
+    27225
+  ],
+  "AAGAAGCGTTTCAAG": [
+    27249
+  ],
+  "AAGCCGATAGATAGC": [
+    27271
+  ],
+  "AACTTCCGCTCCTCG": [
+    27318
+  ],
+  "AACAGACATTCACTA": [
+    27338
+  ],
+  "AAAGGTATGCATGCT": [
+    27365
+  ],
+  "AAAGAAAAGAAGTCA": [
+    27398
+  ],
+  "AAAAGAAGTCAGCTG": [
+    27402
+  ],
+  "AAAGAAGTCAGCTGC": [
+    27403
+  ],
+  "AAGAAGTCAGCTGCG": [
+    27404
+  ],
+  "AAGTCAGCTGCGTCG": [
+    27407
+  ],
+  "ACATCACTGCTATCT": [
+    27426
+  ],
+  "ACACAAAGCTTTGCA": [
+    27473
+  ],
+  "ACAAAGCTTTGCACT": [
+    27475
+  ],
+  "AAAGCTTTGCACTGG": [
+    27477
+  ],
+  "AAAAAATTAGCGCAA": [
+    27537
+  ],
+  "AAAAATCACCTTGCG": [
+    27558
+  ],
+  "AAAATCACCTTGCGC": [
+    27559
+  ],
+  "AAATCACCTTGCGCT": [
+    27560
+  ],
+  "AAGTAGTTGATTCAT": [
+    27606
+  ],
+  "ACAGTATTATGTAGT": [
+    27644
+  ],
+  "AAAATCTAATTTAAT": [
+    27672
+  ],
+  "AAATCTAATTTAATA": [
+    27673
+  ],
+  "AATATATTGATATTT": [
+    27684
+  ],
+  "AAGTTGGCATTATAA": [
+    27736
+  ],
+  "AAAAAAGCATTGCTT": [
+    27749
+  ],
+  "AAAAAGCATTGCTTA": [
+    27750
+  ],
+  "AAAAGCATTGCTTAT": [
+    27751
+  ],
+  "AAAATAAAATCATTA": [
+    27799
+  ],
+  "AAAATCATTATTTGA": [
+    27804
+  ],
+  "AAATCATTATTTGAT": [
+    27805
+  ],
+  "AATCATTATTTGATT": [
+    27806
+  ],
+  "AATTTTGTCCCACTC": [
+    27823
+  ],
+  "ACGATACTGTGATGC": [
+    27853
+  ],
+  "AAGATGTTGAGCAAA": [
+    27892
+  ],
+  "AAACTTATCGCTTAT": [
+    27904
+  ],
+  "AAACTGCGCAACTCG": [
+    27944
+  ],
+  "AAAGACCTGATGCTT": [
+    27987
+  ],
+  "AAAATACCTTGATAC": [
+    28015
+  ],
+  "AAAGCGGTTCGCGAC": [
+    28041
+  ],
+  "AAGAATCTCTTTGCA": [
+    28084
+  ],
+  "AAGTGTTTCCTTCAT": [
+    28105
+  ],
+  "AATATGCAATGCTGT": [
+    28138
+  ],
+  "AAAGATATCCATCTA": [
+    28194
+  ],
+  "AAATCACCAACTCGT": [
+    28235
+  ],
+  "AACAACAGCCAGTTC": [
+    28258
+  ],
+  "AAATTTTCAGGTATT": [
+    28317
+  ],
+  "AAGTCTTGATCTCCT": [
+    28342
+  ],
+  "ACATGGTTTGTTGTT": [
+    28388
+  ],
+  "AATGCATCGCTCAGT": [
+    28430
+  ],
+  "AACTTGGCTGACGCC": [
+    28457
+  ],
+  "AATTTCTTTTGTGGT": [
+    28510
+  ],
+  "AAGTGGAGCATCAGG": [
+    28534
+  ],
+  "AATTTATGAGTGTCT": [
+    28584
+  ],
+  "AAGCCATGAATGTAA": [
+    28642
+  ],
+  "AACGTAACGGAATTA": [
+    28655
+  ],
+  "AACGGAATTATCACT": [
+    28660
+  ],
+  "AAAATAACTCAATGT": [
+    28713
+  ],
+  "AAATAACTCAATGTT": [
+    28714
+  ],
+  "AACTCAATGTTGGCC": [
+    28718
+  ],
+  "AAACTCTTTACCCGT": [
+    28777
+  ],
+  "AAAGGTTAGGGGGTA": [
+    28833
+  ],
+  "AAATCCCGGCGCTCA": [
+    28847
+  ],
+  "AAAAGGCCACCTGTT": [
+    28896
+  ],
+  "AAAGGCCACCTGTTA": [
+    28897
+  ],
+  "AACAGATACTCTCTT": [
+    28950
+  ],
+  "AACCCATCGACGAAC": [
+    29003
+  ],
+  "AACTGTTTCAAGGCT": [
+    29015
+  ],
+  "AAGGCTTCTTGGACG": [
+    29024
+  ],
+  "AAAGTCTCCGCAATT": [
+    29081
+  ],
+  "AAAAAACCGCCATCA": [
+    29105
+  ],
+  "AAAAACCGCCATCAG": [
+    29106
+  ],
+  "AAAACCGCCATCAGG": [
+    29107
+  ],
+  "AAACCGCCATCAGGC": [
+    29108
+  ],
+  "AACCGCCATCAGGCG": [
+    29109
+  ],
+  "AATATTGGTTACGTC": [
+    29153
+  ],
+  "ACGTCTGCATGTGCT": [
+    29163
+  ],
+  "AGCAGTCGTTGATGT": [
+    29206
+  ],
+  "AACTCTGTTGAATGG": [
+    29234
+  ],
+  "AAGTGCATTTATCAT": [
+    29277
+  ],
+  "AAAACAAAACCCGCC": [
+    29298
+  ],
+  "AAAACCCGCCGTAGC": [
+    29303
+  ],
+  "AAAATAAATCCCCGC": [
+    29328
+  ],
+  "AAATAAATCCCCGCG": [
+    29329
+  ],
+  "AAATCCCCGCGAGTG": [
+    29333
+  ],
+  "AATATTGGGTTTAAT": [
+    29363
+  ],
+  "AAGTATCGTTTCCAC": [
+    29405
+  ],
+  "AATAATTTTGCACGG": [
+    29432
+  ],
+  "AATGGGGATTTGTCT": [
+    29473
+  ],
+  "AAACCTTCATGGAAT": [
+    29501
+  ],
+  "AAACACCTTCGTGAT": [
+    29555
+  ],
+  "AACACCTTCGTGATG": [
+    29556
+  ],
+  "AACATTGATAACGCC": [
+    29602
+  ],
+  "AAACTCCTTGCAATG": [
+    29659
+  ],
+  "AAACGGTATCAGCAA": [
+    29689
+  ],
+  "AAACAGTAAGATAAT": [
+    29717
+  ],
+  "AACAGTAAGATAATA": [
+    29718
+  ],
+  "AACCCGATGTTTGAG": [
+    29736
+  ],
+  "AAGACGACGCGAAAT": [
+    29792
+  ],
+  "AAATTCAGCATTTTC": [
+    29803
+  ],
+  "AAAACCGATCTCACT": [
+    29836
+  ],
+  "AAACCGATCTCACTC": [
+    29837
+  ],
+  "AACCGATCTCACTCT": [
+    29838
+  ],
+  "AATGCCAGCGTCAGA": [
+    29864
+  ],
+  "AACCCATTGACCTCC": [
+    29909
+  ],
+  "AACCCCGTAATAGCG": [
+    29924
+  ],
+  "AACGGGTCTTGTTCG": [
+    29964
+  ],
+  "AAACTCTTCCAGGTC": [
+    29993
+  ],
+  "AACAACAAGAAACTG": [
+    30050
+  ],
+  "AAACTGGTTTCCGTC": [
+    30059
+  ],
+  "AACTGGTTTCCGTCT": [
+    30060
+  ],
+  "AATACGCTTACTCCC": [
+    30104
+  ],
+  "AACACCTTCGTAATA": [
+    30128
+  ],
+  "AACACGCAGTTTCCC": [
+    30185
+  ],
+  "AATATCCTCGTTCTC": [
+    30212
+  ],
+  "AGCAGTTCCAGCACA": [
+    30273
+  ],
+  "AGCACAATCGATGGT": [
+    30282
+  ],
+  "ACAATCGATGGTGTT": [
+    30285
+  ],
+  "AATCGATGGTGTTAC": [
+    30287
+  ],
+  "AAAAGGTCTGCGTCA": [
+    30312
+  ],
+  "AAAGGTCTGCGTCAA": [
+    30313
+  ],
+  "AAATCCCCAGTCGTC": [
+    30326
+  ],
+  "AATCCCCAGTCGTCA": [
+    30327
+  ],
+  "AATTTCGCTCACTTC": [
+    30383
+  ],
+  "AACCTCTCTGTTTAC": [
+    30399
+  ],
+  "AACCCTGAACGACCA": [
+    30456
+  ],
+  "AACAATGAGTGGCAG": [
+    30507
+  ],
+  "AATGAGTGGCAGATA": [
+    30510
+  ],
+  "AGATATAGCCTGGTG": [
+    30520
+  ],
+  "AATTCTTCTATTTCT": [
+    30572
+  ],
+  "AATCAATGATGTCTG": [
+    30594
+  ],
+  "AACTGTTGGTTAATA": [
+    30629
+  ],
+  "AAAAAAGGAGCCTGT": [
+    30668
+  ],
+  "AAAAAGGAGCCTGTA": [
+    30669
+  ],
+  "AAAAGGAGCCTGTAG": [
+    30670
+  ],
+  "AAAGACGCCGTTTAA": [
+    30723
+  ],
+  "AAATGAGTCGGTGTG": [
+    30757
+  ],
+  "AATCCCATCAGCGTT": [
+    30772
+  ],
+  "AAATGTCATCGACGT": [
+    30821
+  ],
+  "AAACTGCTGTCTGGC": [
+    30846
+  ],
+  "AACTGCTGTCTGGCT": [
+    30847
+  ],
+  "AAGGGCGTTTTCCTG": [
+    30901
+  ],
+  "AACAAGTCCCATGTC": [
+    30930
+  ],
+  "AAAAATGCATTCCGT": [
+    30984
+  ],
+  "AAAATGCATTCCGTG": [
+    30985
+  ],
+  "AAATGCATTCCGTGG": [
+    30986
+  ],
+  "AATGCATTCCGTGGT": [
+    30987
+  ],
+  "ACCATCATTTCCAGC": [
+    31041
+  ],
+  "AAAGGGATGCGGCTA": [
+    31063
+  ],
+  "AAACCTGATTCCAAT": [
+    31118
+  ],
+  "AACAGAAGATGCTTT": [
+    31175
+  ],
+  "AAGATGCTTTGTGCA": [
+    31180
+  ],
+  "ACAGCCCCTCGTTTA": [
+    31196
+  ],
+  "AGCCAGCCGCTGTGC": [
+    31225
+  ],
+  "AACAGAAAGGCCGGG": [
+    31258
+  ],
+  "AAAGGCCGGGAAATA": [
+    31263
+  ],
+  "AAAGTGATTGCGCCT": [
+    31307
+  ],
+  "AAATACAAAACCAAT": [
+    31365
+  ],
+  "AAAACCAATTTCAGC": [
+    31371
+  ],
+  "AAAACTCGCCATGTA": [
+    31431
+  ],
+  "AAACTCGCCATGTAC": [
+    31432
+  ],
+  "AACTCGCCATGTACT": [
+    31433
+  ],
+  "AATCACGACATAATG": [
+    31461
+  ],
+  "AAAGTACCAGGCATT": [
+    31512
+  ],
+  "AAGCTGACTTTATGG": [
+    31568
+  ],
+  "AAACCACCGAGCCGG": [
+    31588
+  ],
+  "AAACGGGCATTTCAG": [
+    31626
+  ],
+  "AAACCATCGGGAGAG": [
+    31666
+  ],
+  "AACCATCGGGAGAGC": [
+    31667
+  ],
+  "AACATTCACGCCGGA": [
+    31728
+  ],
+  "AAACAGGGTTCTGGC": [
+    31752
+  ],
+  "AACAGGGTTCTGGCG": [
+    31753
+  ],
+  "AACTTCCGGAGCCAC": [
+    31809
+  ],
+  "AAACCTCAGCAAGCA": [
+    31832
+  ],
+  "AACCTCAGCAAGCAG": [
+    31833
+  ],
+  "AAGCAGGGTGTGGAA": [
+    31842
+  ],
+  "AAGTAGGACATTTTC": [
+    31855
+  ],
+  "ACATTTTCATGTCAG": [
+    31862
+  ],
+  "AACTTCTGAAGCGGT": [
+    31917
+  ],
+  "AAGCGGTGATGACGC": [
+    31925
+  ],
+  "AATTTGTGCCACGCA": [
+    31948
+  ],
+  "ACAGCTCTCACATCG": [
+    31978
+  ],
+  "AATGTCCGGTGTCAT": [
+    32013
+  ],
+  "AATCCAAGAGCTTTT": [
+    32064
+  ],
+  "AAGAGCTTTTACTGC": [
+    32069
+  ],
+  "AAATATCTGGGAACA": [
+    32126
+  ],
+  "AACAGAGCGGCAATA": [
+    32137
+  ],
+  "AAGTCGTCATCCCAT": [
+    32151
+  ],
+  "AATCTCCTGCATGGT": [
+    32195
+  ],
+  "AACCGGAGTGATGTC": [
+    32219
+  ],
+  "AATGCGCTCGGCTTC": [
+    32276
+  ],
+  "AAATCCGAAGGCCAG": [
+    32312
+  ],
+  "AACATCCGTTTGGGA": [
+    32358
+  ],
+  "AATGGTTCGCGGCGG": [
+    32418
+  ],
+  "AACGCAGATCGGATG": [
+    32453
+  ],
+  "AAATCCGGCATGTAC": [
+    32485
+  ],
+  "AAAGTCCATGCCATC": [
+    32519
+  ],
+  "AAACTGCTGGTTTTC": [
+    32534
+  ],
+  "AACGATGCCATTCTG": [
+    32588
+  ],
+  "AAAGGCGTAAATTTC": [
+    32612
+  ],
+  "AAATTTCTTTCGTCC": [
+    32620
+  ],
+  "AACGATCAGTAATGC": [
+    32660
+  ],
+  "AAATGCCGTCTGGCG": [
+    32705
+  ],
+  "AAGAGTGGTGATCAG": [
+    32720
+  ],
+  "AATCCATGCCGACAC": [
+    32752
+  ],
+  "ACACGTTCAGCCAGC": [
+    32763
+  ],
+  "ACCTCTGAATCAATA": [
+    32819
+  ],
+  "AATCAATATCAACCT": [
+    32826
+  ],
+  "AATATCAACCTGGTG": [
+    32830
+  ],
+  "AACCTGGTGGTGAGC": [
+    32836
+  ],
+  "AACCATGTACCGGAT": [
+    32860
+  ],
+  "AAACTCAACATCGTC": [
+    32896
+  ],
+  "AAACGCACGGGTAAT": [
+    32914
+  ],
+  "AAATGATCGATGCAT": [
+    32957
+  ],
+  "AAACAGGTGCTGGGG": [
+    32980
+  ],
+  "AACAGGTGCTGGGGC": [
+    32981
+  ],
+  "ACAGGTGCTGGGGCA": [
+    32982
+  ],
+  "ACGGGCGAGCTGCTG": [
+    33040
+  ],
+  "ACGCGCCCAGCTCTG": [
+    33061
+  ],
+  "AAGACGATCCTGAAT": [
+    33082
+  ],
+  "AACTCCTGAAATAGC": [
+    33117
+  ],
+  "AAATAGCTGTGAAAA": [
+    33125
+  ],
+  "AAAATATCGCCCGCG": [
+    33136
+  ],
+  "AAAACAGGAAAGGGG": [
+    33170
+  ],
+  "AAACAGGAAAGGGGG": [
+    33171
+  ],
+  "AAAGGGGGTTAGTGA": [
+    33178
+  ],
+  "AAGCGTCGACGGCTT": [
+    33239
+  ],
+  "AAACATCTTTTCATC": [
+    33258
+  ],
+  "AAAAGTGGCGATAGT": [
+    33279
+  ],
+  "AAAGTGGCGATAGTG": [
+    33280
+  ],
+  "AAGTGGCGATAGTGA": [
+    33281
+  ],
+  "AAGTGTTTGATCCAT": [
+    33315
+  ],
+  "AAGTATGTCGATAAG": [
+    33352
+  ],
+  "AAGGCGTTTCCATCC": [
+    33364
+  ],
+  "AAAGATTCGGAAGGG": [
+    33410
+  ],
+  "AACAGGCCACCCTGC": [
+    33433
+  ],
+  "AAAAACGCCTCGAGT": [
+    33489
+  ],
+  "AAAACCGCACTCAGG": [
+    33525
+  ],
+  "AAACCGCACTCAGGC": [
+    33526
+  ],
+  "AAATATTCCTGATGT": [
+    33568
+  ],
+  "AATATTCCTGATGTA": [
+    33569
+  ],
+  "AATTCTTATTCCTTC": [
+    33595
+  ],
+  "ACCATCCATTGGAGG": [
+    33613
+  ],
+  "AACTCACACACAACA": [
+    33662
+  ],
+  "AACACCATATGCATT": [
+    33673
+  ],
+  "AAATTGCTATAAGCA": [
+    33699
+  ],
+  "AAGCAGAGCATGTTG": [
+    33709
+  ],
+  "AATACAGAGCCGTGT": [
+    33749
+  ],
+  "AAATTATTAATCTGG": [
+    33794
+  ],
+  "AAGTTTTTCCTCTGT": [
+    33811
+  ],
+  "AATTTCTATTGATGC": [
+    33847
+  ],
+  "AATCAATGATGTATT": [
+    33873
+  ],
+  "AAAAAATCGCCCTCA": [
+    33924
+  ],
+  "AAAAATCGCCCTCAC": [
+    33925
+  ],
+  "AAAATCGCCCTCACA": [
+    33926
+  ],
+  "AAAGAAGATTTCCAA": [
+    33950
+  ],
+  "AACAAGTCGGCTCCT": [
+    33972
+  ],
+  "AAGTCGGCTCCTGTT": [
+    33975
+  ],
+  "AATACACAGTGCAGT": [
+    34033
+  ],
+  "AAAAATAAAGGCCAC": [
+    34069
+  ],
+  "AAAATAAAGGCCACT": [
+    34070
+  ],
+  "AAAGGCCACTATCAG": [
+    34075
+  ],
+  "AAGGCCACTATCAGG": [
+    34076
+  ],
+  "AAGTTCTCTGGCAAT": [
+    34113
+  ],
+  "AATCATTGCCGTCGT": [
+    34125
+  ],
+  "AAACATTTCTTCAGG": [
+    34185
+  ],
+  "AACATTTCTTCAGGC": [
+    34186
+  ],
+  "AACCATGCATTCCGA": [
+    34203
+  ],
+  "AATTGTCCACACCAT": [
+    34246
+  ],
+  "AATAGTCGTAGTCAT": [
+    34272
+  ],
+  "ACATCCTGAGGATGC": [
+    34313
+  ],
+  "AACTCTTCAAATTCT": [
+    34334
+  ],
+  "AAATTCTTCTTCCAT": [
+    34342
+  ],
+  "AAATAGTGGATTGCG": [
+    34367
+  ],
+  "AAAGATTGTGCCTGT": [
+    34387
+  ],
+  "AACCACATCAGGCTC": [
+    34407
+  ],
+  "AAATCGGATAAACTA": [
+    34450
+  ],
+  "AAACTATTACAACCC": [
+    34459
+  ],
+  "AAATGGATCCACTCG": [
+    34494
+  ],
+  "AACCATGTATATGAT": [
+    34549
+  ],
+  "AACTGGCCTGAATAT": [
+    34601
+  ],
+  "AATATGTTAATGAGA": [
+    34611
+  ],
+  "AATCGGTATTCCTCA": [
+    34627
+  ],
+  "AATGTGCATCGATTA": [
+    34688
+  ],
+  "AAGCGATTTAAGCTA": [
+    34727
+  ],
+  "AAGAAAACGCATTAA": [
+    34741
+  ],
+  "AAAACGCATTAAGAT": [
+    34744
+  ],
+  "AAAACGATAAAGTGC": [
+    34761
+  ],
+  "AAAACCTTACAGAAG": [
+    34788
+  ],
+  "AAACCTTACAGAAGA": [
+    34789
+  ],
+  "AACCTTACAGAAGAG": [
+    34790
+  ],
+  "AAGAGCAATCTATGG": [
+    34800
+  ],
+  "AAAACAATTCCCATA": [
+    34861
+  ],
+  "AAAACTTTTTCCCGA": [
+    34910
+  ],
+  "AAACTTTTTCCCGAT": [
+    34911
+  ],
+  "AAAGCATATATTATT": [
+    34933
+  ],
+  "AAGCATATATTATTC": [
+    34934
+  ],
+  "AATTAGTTGCCAGCT": [
+    34974
+  ],
+  "AATATTGAGATAAAG": [
+    35000
+  ],
+  "AAAGCCAAGGCCAAT": [
+    35011
+  ],
+  "AACTAGATAAGAGGA": [
+    35034
+  ],
+  "AAGAGGAATCGATTT": [
+    35042
+  ],
+  "AATCGATTTTCCCTT": [
+    35048
+  ],
+  "AATTTTCTGGCGTCC": [
+    35063
+  ],
+  "ACCATGTGCGCTGAT": [
+    35113
+  ],
+  "AATACGTTGCAGGTT": [
+    35138
+  ],
+  "AAGGTCTATCGGATT": [
+    35189
+  ],
+  "AATAGGGCGGTTAAC": [
+    35249
+  ],
+  "AACTGGTTTTGCGCT": [
+    35261
+  ],
+  "AACCAACAGGGGATT": [
+    35282
+  ],
+  "AACAGGGGATTTGCT": [
+    35286
+  ],
+  "ACAGGGGATTTGCTG": [
+    35287
+  ],
+  "ACGTTCGCGGCGGCG": [
+    35330
+  ],
+  "AGCTTTGGTGGTGTG": [
+    35379
+  ],
+  "AACGAAAACCCCCCG": [
+    35411
+  ],
+  "AAAACCCCCCGCGAT": [
+    35415
+  ],
+  "AAACCCCCCGCGATT": [
+    35416
+  ],
+  "AACCCCCCGCGATTG": [
+    35417
+  ],
+  "AATCCGGAATCGCAC": [
+    35446
+  ],
+  "AAAGCCTTCTGCTTT": [
+    35496
+  ],
+  "AAGAGCGTCACCTTC": [
+    35542
+  ],
+  "ACCGCCAGTGGTATT": [
+    35594
+  ],
+  "AACACCGCCAGAGAT": [
+    35615
+  ],
+  "AATTTATCACCGCAG": [
+    35630
+  ],
+  "AATTTATTTTTTGCA": [
+    35671
+  ],
+  "AATTGCTATGTTTAG": [
+    35717
+  ],
+  "AATAAATACAATTGG": [
+    35755
+  ],
+  "AAATACAATTGGTTA": [
+    35758
+  ],
+  "AAAGAAAACCCGGCG": [
+    35798
+  ],
+  "AAAACCCGGCGCTGA": [
+    35802
+  ],
+  "AAAACAAGGATGCAT": [
+    35858
+  ],
+  "AAACAAGGATGCATA": [
+    35859
+  ],
+  "AACAAGGATGCATAT": [
+    35860
+  ],
+  "AACGATGCAGAGGCA": [
+    35882
+  ],
+  "AAAGAAGCAATAACC": [
+    35940
+  ],
+  "AAAAACAAAGCTCCA": [
+    35960
+  ],
+  "AAAACAAAGCTCCAA": [
+    35961
+  ],
+  "AAAACTAAGGGCATA": [
+    35983
+  ],
+  "AAACTAAGGGCATAG": [
+    35984
+  ],
+  "AACTAAGGGCATAGA": [
+    35985
+  ],
+  "AACTACCGATGTCAT": [
+    36004
+  ],
+  "AATCTTGGCCAGTCG": [
+    36034
+  ],
+  "AAACGTCAAGGCAGC": [
+    36070
+  ],
+  "AACGTCAAGGCAGCA": [
+    36071
+  ],
+  "AAGGCAGCAATCAGG": [
+    36077
+  ],
+  "AAGACCATCTCTATG": [
+    36133
+  ],
+  "AAAAAGAAACACCAG": [
+    36153
+  ],
+  "AAAAGAAACACCAGG": [
+    36154
+  ],
+  "AAAAGGAGATAGCAA": [
+    36182
+  ],
+  "AAACACCAGGCATGA": [
+    36231
+  ],
+  "AACACCAGGCATGAT": [
+    36232
+  ],
+  "AACTTTGCCCACCTG": [
+    36283
+  ],
+  "AAAACATTCCAGTAT": [
+    36304
+  ],
+  "AAACATTCCAGTATA": [
+    36305
+  ],
+  "AACATTCCAGTATAT": [
+    36306
+  ],
+  "AATATGCCATCTCTT": [
+    36342
+  ],
+  "ACCTTGTTCAGAGGC": [
+    36377
+  ],
+  "AATGTTCTGTTAAAA": [
+    36420
+  ],
+  "AAAATATCTCCGGCC": [
+    36431
+  ],
+  "AAAATTGAGGTGACG": [
+    36474
+  ],
+  "AAAAATAATATCCTT": [
+    36493
+  ],
+  "AAAATAATATCCTTG": [
+    36494
+  ],
+  "AAATAATATCCTTGG": [
+    36495
+  ],
+  "AAATTTTGGCTTAAT": [
+    36532
+  ],
+  "AAAAAGCTCCCCTTC": [
+    36565
+  ],
+  "AAAAGCTCCCCTTCA": [
+    36566
+  ],
+  "AAAGCTCCCCTTCAA": [
+    36567
+  ],
+  "AAATACAGGTAGCTT": [
+    36616
+  ],
+  "AAATGCATATGCATA": [
+    36662
+  ],
+  "AACATCGTCTTTGGT": [
+    36676
+  ],
+  "AACGCGCTCTCCACT": [
+    36718
+  ],
+  "AAAAAATCTGTCAGA": [
+    36758
+  ],
+  "AAAAATCTGTCAGAT": [
+    36759
+  ],
+  "AAAACAGTTCTGGCA": [
+    36791
+  ],
+  "AAAAAAGATGGGAAT": [
+    36833
+  ],
+  "AAAAAGATGGGAATC": [
+    36834
+  ],
+  "AAAAGATGGGAATCC": [
+    36835
+  ],
+  "AAAGATGGGAATCCC": [
+    36836
+  ],
+  "AACTGAAGCTTTAGA": [
+    36889
+  ],
+  "AACCAGACTCTTGTC": [
+    36919
+  ],
+  "AAAGAGAAAAGTTTT": [
+    36946
+  ],
+  "AAAAGTTTTTCCATC": [
+    36952
+  ],
+  "AAAGTTTTTCCATCG": [
+    36953
+  ],
+  "AAATAATTGGAGCCA": [
+    36983
+  ],
+  "AAAACAGACAGGTTT": [
+    37037
+  ],
+  "AAAAACCATTCTTCA": [
+    37098
+  ],
+  "AAAACCATTCTTCAT": [
+    37099
+  ],
+  "AAAATTCCCCTAATT": [
+    37153
+  ],
+  "AAATTCCCCTAATTC": [
+    37154
+  ],
+  "AACACCTTGCCGATC": [
+    37213
+  ],
+  "AAACGTCTCTTCAGG": [
+    37232
+  ],
+  "AACAACTCTCATTGC": [
+    37279
+  ],
+  "AAAAACACCTGACCG": [
+    37329
+  ],
+  "AAAACACCTGACCGC": [
+    37330
+  ],
+  "AAACACCTGACCGCT": [
+    37331
+  ],
+  "AAACTCATCACCCCC": [
+    37370
+  ],
+  "AAATCACCTGGCTCA": [
+    37401
+  ],
+  "AAAGCTTGGCTTGGA": [
+    37457
+  ],
+  "AACCTCAAGCCAGAA": [
+    37502
+  ],
+  "AAGCCAGAATGCAGA": [
+    37508
+  ],
+  "AATCACTGGCTTTTT": [
+    37522
+  ],
+  "AAAGGTTCTAAGCTC": [
+    37574
+  ],
+  "AAAAAACAGGGTACT": [
+    37618
+  ],
+  "AAAAACAGGGTACTC": [
+    37619
+  ],
+  "AAAACAGGGTACTCA": [
+    37620
+  ],
+  "AAACAGGGTACTCAT": [
+    37621
+  ],
+  "AACAGGGTACTCATA": [
+    37622
+  ],
+  "AACCGCTTCATACAT": [
+    37664
+  ],
+  "AAATTCTTCAACGCT": [
+    37709
+  ],
+  "AACGCTAACTTTGAG": [
+    37718
+  ],
+  "AACTTTGAGAATTTT": [
+    37724
+  ],
+  "AAATAAAGCACCAAC": [
+    37784
+  ],
+  "AAAGCACCAACGCCT": [
+    37788
+  ],
+  "AACGCCTGACTGCCC": [
+    37796
+  ],
+  "AAGCCAAGTTCATTT": [
+    37845
+  ],
+  "AAATTGCTTTAAGGC": [
+    37873
+  ],
+  "AAGCTGCTCTTGTGT": [
+    37901
+  ],
+  "AAATCTATCACCGCA": [
+    37945
+  ],
+  "AAATATCTAACACCG": [
+    37966
+  ],
+  "AACACCGTGCGTGTT": [
+    37974
+  ],
+  "AAGGAGGTTGTATGG": [
+    38029
+  ],
+  "AACAACGCATAACCC": [
+    38044
+  ],
+  "AAAGATTATGCAATG": [
+    38061
+  ],
+  "AAACCAAGACAGCTA": [
+    38086
+  ],
+  "AAAGATCTCGGCGTA": [
+    38100
+  ],
+  "AAAGATTTTTTTAAC": [
+    38153
+  ],
+  "AAACGCTGATGGAAG": [
+    38171
+  ],
+  "AAAAAAACAACAGCA": [
+    38223
+  ],
+  "AAAAAACAACAGCAT": [
+    38224
+  ],
+  "AAAAACAACAGCATA": [
+    38225
+  ],
+  "AAAAAGGGCATCAAA": [
+    38271
+  ],
+  "AAAAGGGCATCAAAT": [
+    38272
+  ],
+  "AAACCACACCTATGG": [
+    38288
+  ],
+  "AAATACTTACATATG": [
+    38347
+  ],
+  "AAACAAACGCAACGA": [
+    38370
+  ],
+  "AAAATCGCAATGCTT": [
+    38416
+  ],
+  "AAATCGCAATGCTTG": [
+    38417
+  ],
+  "AACTGAGAAGACAGC": [
+    38433
+  ],
+  "AAGACAGCGGAAGCT": [
+    38440
+  ],
+  "AAGAGGGACTGGATT": [
+    38488
+  ],
+  "AAAGTTCTCAATGCT": [
+    38505
+  ],
+  "AAGTTCTCAATGCTG": [
+    38506
+  ],
+  "AATGCTGCTTGCTGT": [
+    38514
+  ],
+  "AATGGGGGGTCGTTG": [
+    38534
+  ],
+  "AAGTTGCTGCGATTC": [
+    38576
+  ],
+  "AAAAAACGCCCGGCG": [
+    38599
+  ],
+  "AAAAACGCCCGGCGG": [
+    38600
+  ],
+  "AAAACGCCCGGCGGC": [
+    38601
+  ],
+  "AAACGCCCGGCGGCA": [
+    38602
+  ],
+  "AAATCCAGATGGAGT": [
+    38633
+  ],
+  "AAATACAGCAAAAAT": [
+    38690
+  ],
+  "AAAAATACTCAACTT": [
+    38699
+  ],
+  "AAAATACTCAACTTC": [
+    38700
+  ],
+  "AAATACTCAACTTCG": [
+    38701
+  ],
+  "AACTTCGGCAGAGGT": [
+    38709
+  ],
+  "AACTTTGCCGGACAG": [
+    38724
+  ],
+  "AAATATGCTGCTTGA": [
+    38783
+  ],
+  "AAAGTGCTGCTTGCC": [
+    38835
+  ],
+  "AAAACCTATGGGTGG": [
+    38859
+  ],
+  "AAACCAATGGACAGA": [
+    38877
+  ],
+  "AAACGGTGCAATGAA": [
+    38934
+  ],
+  "AACGGTGCAATGAAG": [
+    38935
+  ],
+  "AACTCGTCAGAATGA": [
+    38959
+  ],
+  "AAATAAAAACATCTC": [
+    39008
+  ],
+  "AAAAACATCTCAGAA": [
+    39012
+  ],
+  "AAAACATCCCTCAAA": [
+    39072
+  ],
+  "AAAACAGGGGGACAC": [
+    39107
+  ],
+  "AAAAAAGAAAAGATT": [
+    39142
+  ],
+  "AAAAAGAAAAGATTA": [
+    39143
+  ],
+  "AAAACGACCTTTCTG": [
+    39196
+  ],
+  "AAACCGGATGCTGCA": [
+    39216
+  ],
+  "AACCGGATGCTGCAA": [
+    39217
+  ],
+  "AAGACCTGACCGCCG": [
+    39262
+  ],
+  "AAAACCGAATTTTGC": [
+    39323
+  ],
+  "AAACCGAATTTTGCT": [
+    39324
+  ],
+  "AACCACCGCGACATG": [
+    39384
+  ],
+  "AACGTGCTGAGCCCG": [
+    39444
+  ],
+  "AAACTCCGCGATAAG": [
+    39462
+  ],
+  "AAATCAACCGTAACA": [
+    39490
+  ],
+  "AAACCAAAACTCGAC": [
+    39531
+  ],
+  "AAAACTCGACCTGAC": [
+    39536
+  ],
+  "AAAAACATCGCCGCA": [
+    39584
+  ],
+  "AAAACATCGCCGCAC": [
+    39585
+  ],
+  "AAACATCGCCGCACA": [
+    39586
+  ],
+  "AACAACATGCCGGAA": [
+    39641
+  ],
+  "AAAAGCCGCAGGTAC": [
+    39666
+  ],
+  "AAAGCCGCAGGTACA": [
+    39667
+  ],
+  "AACGGTGTGTTCAGC": [
+    39701
+  ],
+  "AACCGTGACCAGAAC": [
+    39749
+  ],
+  "AAATCCGTCGCCAGT": [
+    39774
+  ],
+  "AAAACGGGATCACCA": [
+    39807
+  ],
+  "AAACGGGATCACCAC": [
+    39808
+  ],
+  "AACAGGTTAACGCAG": [
+    39828
+  ],
+  "AACGCAGGAATGCGC": [
+    39836
+  ],
+  "AATCGACCATTTCTG": [
+    39866
+  ],
+  "AAGAAGCATCCGTTA": [
+    39915
+  ],
+  "AAACGTCAGCGAGCT": [
+    39943
+  ],
+  "AACGTCAGCGAGCTG": [
+    39944
+  ],
+  "AAGCGAGGCCTGTAT": [
+    39986
+  ],
+  "AAATCAAACGCGCAC": [
+    40025
+  ],
+  "AAACGCGCACTACTG": [
+    40030
+  ],
+  "AACATGCGGGCCAAT": [
+    40067
+  ],
+  "AAGGCCGCAGATGAG": [
+    40109
+  ],
+  "AACCGTGGTGAGGCG": [
+    40148
+  ],
+  "AACCAGTAAAACAAC": [
+    40170
+  ],
+  "AAAACAACTTCCTGT": [
+    40177
+  ],
+  "AAACAACTTCCTGTC": [
+    40178
+  ],
+  "AAATCGTGCACAGGC": [
+    40210
+  ],
+  "AAATCAAAGCTAAGT": [
+    40242
+  ],
+  "AAAGCTAAGTTCGGA": [
+    40247
+  ],
+  "AAAGAGGCAATTATT": [
+    40288
+  ],
+  "AAGAGGCAATTATTC": [
+    40289
+  ],
+  "AATAGCTTCTGTGCG": [
+    40321
+  ],
+  "AACAGGCGCAACAGT": [
+    40353
+  ],
+  "AAATCAGGCCGCGGC": [
+    40377
+  ],
+  "AAAATGGCACGGGCA": [
+    40393
+  ],
+  "AAATGGCACGGGCAG": [
+    40394
+  ],
+  "AACGGTGTATTACCG": [
+    40440
+  ],
+  "AACGGGAAGGAAAGA": [
+    40472
+  ],
+  "AAAGATGAGCACGAA": [
+    40482
+  ],
+  "AAACGGGTATTGGCG": [
+    40534
+  ],
+  "AAAAGATGACCATCT": [
+    40561
+  ],
+  "AAAGATGACCATCTA": [
+    40562
+  ],
+  "AACAGGCCTGCTGGT": [
+    40592
+  ],
+  "AAAAAACTAACCTTT": [
+    40646
+  ],
+  "AAAAACTAACCTTTG": [
+    40647
+  ],
+  "AAAACGCTATTCACG": [
+    40686
+  ],
+  "AAACCAATCGTAGTA": [
+    40730
+  ],
+  "AAAACAGGAAGCTAT": [
+    40776
+  ],
+  "AAACAGGAAGCTATG": [
+    40777
+  ],
+  "AACAGGAAGCTATGG": [
+    40778
+  ],
+  "AAGCTATGGGCCTGC": [
+    40784
+  ],
+  "AATGGCATGGTCGCT": [
+    40824
+  ],
+  "AAAGCTGGAAGTGTG": [
+    40851
+  ],
+  "AAAGCAGCAGGATGT": [
+    40882
+  ],
+  "AACCAGCAGGATGCG": [
+    40942
+  ],
+  "AATTTGCGGAGCTAT": [
+    40965
+  ],
+  "AAGTGGTCAGACGAA": [
+    41018
+  ],
+  "AAGCGAGACTGGCTC": [
+    41031
+  ],
+  "AAAGCGAGATGGGGA": [
+    41054
+  ],
+  "AAATGTCGTTAGTTT": [
+    41085
+  ],
+  "AAAAGCGACGGGCAG": [
+    41144
+  ],
+  "AAAGACGTGCATTAC": [
+    41161
+  ],
+  "AACATCCAATGACAT": [
+    41198
+  ],
+  "AAGTTCTGGGATATA": [
+    41236
+  ],
+  "AACCCGGAGCTTGGA": [
+    41278
+  ],
+  "AAATGGTTATACGGT": [
+    41298
+  ],
+  "AAAGGATATTCAGAC": [
+    41322
+  ],
+  "AAAGAAATATGGCAC": [
+    41373
+  ],
+  "AAAACTCGTTCCCTT": [
+    41424
+  ],
+  "AAACTCGTTCCCTTC": [
+    41425
+  ],
+  "AAATACTGTGATGAC": [
+    41443
+  ],
+  "AATACTGTGATGACC": [
+    41444
+  ],
+  "AATTACACCACGTGG": [
+    41473
+  ],
+  "AACCGAAGCGGCTAA": [
+    41507
+  ],
+  "AAAGCCAAAGCCTGG": [
+    41520
+  ],
+  "AAAGCCTGGAATCAG": [
+    41526
+  ],
+  "AACTGTCAGACTTTG": [
+    41552
+  ],
+  "AACAACCATTCGATT": [
+    41597
+  ],
+  "AAATACCGGAACATC": [
+    41615
+  ],
+  "AAAAAATCAACGCAA": [
+    41653
+  ],
+  "AAAAAATCGGACTTG": [
+    41666
+  ],
+  "AAAAATCGGACTTGC": [
+    41667
+  ],
+  "AAAATCGGACTTGCC": [
+    41668
+  ],
+  "AAAGATGAGGAGGGA": [
+    41686
+  ],
+  "AAGATGAGGAGGGAT": [
+    41687
+  ],
+  "AATGAGGTCATCACG": [
+    41716
+  ],
+  "AAACGCCAAAGGAGA": [
+    41759
+  ],
+  "AAAATGTATTCAGAA": [
+    41812
+  ],
+  "AAAATGATTATCAAG": [
+    41825
+  ],
+  "AAAAGATTCGATACC": [
+    41866
+  ],
+  "AAAGATTCGATACCG": [
+    41867
+  ],
+  "AAATATTTGGAGGGC": [
+    41903
+  ],
+  "AAGCTGCATGATGCG": [
+    41942
+  ],
+  "AAAGAAGATAACCGC": [
+    41979
+  ],
+  "AAAGAACACCAACAG": [
+    42040
+  ],
+  "AAAAGGAGGACGTGT": [
+    42076
+  ],
+  "AAAACTGCAAATACC": [
+    42129
+  ],
+  "AAAAGAATCTGACGT": [
+    42184
+  ],
+  "AAAAACCTTCAACTA": [
+    42199
+  ],
+  "AAAACAAGGTGATTG": [
+    42260
+  ],
+  "AAAATCGAAGTTACG": [
+    42278
+  ],
+  "AAAGCGTCGAGCGAG": [
+    42299
+  ],
+  "AACGTGCGCTAACTG": [
+    42318
+  ],
+  "AACTGCGGTCAGAAG": [
+    42328
+  ],
+  "AACTGATGAGCGATC": [
+    42386
+  ],
+  "AAACCAGCGCGAAGA": [
+    42437
+  ],
+  "AAAAACGATGAATGC": [
+    42458
+  ],
+  "AAAACGATGAATGCC": [
+    42459
+  ],
+  "AAACGATGAATGCCG": [
+    42460
+  ],
+  "AACGATGAATGCCGG": [
+    42461
+  ],
+  "AATCAGTGGTGGTGC": [
+    42500
+  ],
+  "AACCAAGATAGCACT": [
+    42529
+  ],
+  "AAAGAACGCGAAAAA": [
+    42557
+  ],
+  "AAAAAGCGGAAAAAG": [
+    42567
+  ],
+  "AAAAAGCAGCAGAGA": [
+    42576
+  ],
+  "AAAAGCAGCAGAGAA": [
+    42577
+  ],
+  "AAACAGAAAGATAAA": [
+    42614
+  ],
+  "AAAACTCGCCTTAAA": [
+    42640
+  ],
+  "AAACAAGCCCAACAA": [
+    42674
+  ],
+  "AAACGCCTTCATCAG": [
+    42694
+  ],
+  "AAAGAGACCGCGACT": [
+    42711
+  ],
+  "AACGCTCACGTCTGC": [
+    42745
+  ],
+  "AACTCCGATTTAATG": [
+    42804
+  ],
+  "AACGCAATATTCACA": [
+    42819
+  ],
+  "AACCAGCACAAAAGC": [
+    42851
+  ],
+  "AAAAGCGGAAATCTC": [
+    42860
+  ],
+  "AAAGCGGAAATCTCG": [
+    42861
+  ],
+  "AAATCTCGTTCCGTA": [
+    42868
+  ],
+  "AAATCGAATCAAACC": [
+    42927
+  ],
+  "AAACCATAACCGCCA": [
+    42937
+  ],
+  "AACAGAAACTCAAAG": [
+    42996
+  ],
+  "AAACTCAAAGACCTG": [
+    43001
+  ],
+  "AAAAACCATTCCAGA": [
+    43053
+  ],
+  "AAAACCATTCCAGAC": [
+    43054
+  ],
+  "AAACCATTCCAGACA": [
+    43055
+  ],
+  "AAATCAGACAGAAGT": [
+    43089
+  ],
+  "AAAATACGTTGATGA": [
+    43140
+  ],
+  "AAAATGCACGCCATC": [
+    43165
+  ],
+  "AAAGAGATGCGCTAT": [
+    43217
+  ],
+  "AAAAAATTGATGGCA": [
+    43236
+  ],
+  "AAAAATTGATGGCAG": [
+    43237
+  ],
+  "AAAATTGATGGCAGC": [
+    43238
+  ],
+  "AAATACCGAAATATT": [
+    43253
+  ],
+  "AAACTGGATACGATT": [
+    43313
+  ],
+  "AAAAAAGACCTGCTT": [
+    43340
+  ],
+  "AAAAAGACCTGCTTA": [
+    43341
+  ],
+  "AAAAGACCTGCTTAT": [
+    43342
+  ],
+  "AAAGACCTGCTTATC": [
+    43343
+  ],
+  "AACGTTGAATGCCTG": [
+    43391
+  ],
+  "AAACCATGAGCAAAT": [
+    43444
+  ],
+  "AAACGTTAATCACTG": [
+    43486
+  ],
+  "AAAGAAATTCTGGCT": [
+    43544
+  ],
+  "AAAGCAGATGAACTT": [
+    43574
+  ],
+  "AAAGATAAAAAATAT": [
+    43613
+  ],
+  "AAAAAATATGTTATC": [
+    43619
+  ],
+  "AAAAATATGTTATCT": [
+    43620
+  ],
+  "AAAATATGTTATCTG": [
+    43621
+  ],
+  "AAAGCCAGTTGATCA": [
+    43672
+  ],
+  "AAAACGGGATCGTGA": [
+    43728
+  ],
+  "AAACGGGATCGTGAA": [
+    43729
+  ],
+  "AAAGAAATCAAAGGC": [
+    43742
+  ],
+  "AAACCACTCAAGTTT": [
+    43793
+  ],
+  "AAACCTAACATTGAT": [
+    43849
+  ],
+  "AAAGCGTAGCTAAAT": [
+    43895
+  ],
+  "AAAAAGCCCGATGAT": [
+    43920
+  ],
+  "AAAAGCCCGATGATG": [
+    43921
+  ],
+  "AAAGCCCGATGATGA": [
+    43922
+  ],
+  "AAGCCCGATGATGAG": [
+    43923
+  ],
+  "ACCACGGGCCACGGC": [
+    43944
+  ],
+  "ACGGCTTCTGACTCT": [
+    43954
+  ],
+  "AATCACAAGCCGGAT": [
+    44009
+  ],
+  "AAGCCGGATTCGGTA": [
+    44015
+  ],
+  "AAGCACGAACTCAGC": [
+    44047
+  ],
+  "AACTCAGCCAGAACG": [
+    44054
+  ],
+  "AACGACAAACAAAAG": [
+    44065
+  ],
+  "AAACAAAAGGCTATC": [
+    44071
+  ],
+  "AAAAGGCTATCAACT": [
+    44075
+  ],
+  "AAAGGCTATCAACTA": [
+    44076
+  ],
+  "AAATACCGTGGTGTG": [
+    44122
+  ],
+  "AAAGCTTGAAGGAAA": [
+    44139
+  ],
+  "AAAGGTACTGCAAGT": [
+    44163
+  ],
+  "AACATTCGCTTATGC": [
+    44184
+  ],
+  "AAGATGCAGAGATTG": [
+    44232
+  ],
+  "AAAACAGAGCTGTGG": [
+    44278
+  ],
+  "AAACAGAGCTGTGGG": [
+    44279
+  ],
+  "AAAGAGTGCGGAAGA": [
+    44308
+  ],
+  "AAAGGCGTCGGCTAT": [
+    44326
+  ],
+  "AAGCGCAGCATATCG": [
+    44355
+  ],
+  "AAACCTTACCCAACC": [
+    44391
+  ],
+  "AACCCACCTGGTCAC": [
+    44402
+  ],
+  "AAAGAAGAGTCAATC": [
+    44461
+  ],
+  "AACATTTTGAATGCG": [
+    44482
+  ],
+  "AACATATTAACGGCA": [
+    44531
+  ],
+  "AAAATTGGGTAAATT": [
+    44565
+  ],
+  "AAAAGAGGCGGCGCT": [
+    44623
+  ],
+  "AAAGAGGCGGCGCTT": [
+    44624
+  ],
+  "AACTCCAACCATCGC": [
+    44682
+  ],
+  "AACCATCGCAGGCAG": [
+    44688
+  ],
+  "AAAATGCAATCCCGA": [
+    44713
+  ],
+  "AAACAGTTCGCAGGT": [
+    44727
+  ],
+  "AACAGTTCGCAGGTA": [
+    44728
+  ],
+  "AACAGGTAAGAGCAT": [
+    44789
+  ],
+  "AAGAGCATTGAGTCG": [
+    44796
+  ],
+  "AAGAGTCGGCGAGCC": [
+    44820
+  ],
+  "AAGCGAATACCGGAA": [
+    44869
+  ],
+  "AAGCAGAACCGGATC": [
+    44882
+  ],
+  "AACCGGATCACCAAA": [
+    44888
+  ],
+  "AAATGCGTACAGGCG": [
+    44900
+  ],
+  "AAACTGAGCCGTAGC": [
+    44943
+  ],
+  "AACTGAGCCGTAGCC": [
+    44944
+  ],
+  "AATAGTTACGCTGCG": [
+    44983
+  ],
+  "AAAGCGGGTGGCAGG": [
+    45021
+  ],
+  "AACAACCTCCTGCCG": [
+    45046
+  ],
+  "AACAAATCTGATTAC": [
+    45085
+  ],
+  "AAATCTGATTACTAA": [
+    45088
+  ],
+  "AAACACAGTAGCCTG": [
+    45101
+  ],
+  "AAATAGAGCAAATCC": [
+    45152
+  ],
+  "AAAAACATGACCTGT": [
+    45198
+  ],
+  "AAAACATGACCTGTT": [
+    45199
+  ],
+  "AAACATGACCTGTTG": [
+    45200
+  ],
+  "AAAGGAACAAGGCAT": [
+    45232
+  ],
+  "AACAAGGCATCGGGG": [
+    45237
+  ],
+  "AAGGCATCGGGGCAA": [
+    45240
+  ],
+  "AATCCTTGCGTTTGC": [
+    45253
+  ],
+  "AAAAACAGTAATCGA": [
+    45310
+  ],
+  "AAAACAGTAATCGAC": [
+    45311
+  ],
+  "AAACAGTAATCGACG": [
+    45312
+  ],
+  "AACAGTAATCGACGC": [
+    45313
+  ],
+  "AACGATGTGCGCCAT": [
+    45328
+  ],
+  "AAGTAGCAATCTCGC": [
+    45385
+  ],
+  "AACGAGCGTGTTTAT": [
+    45406
+  ],
+  "AAACGCTTCGCTGCT": [
+    45458
+  ],
+  "AAAAAAGCCGGAGTA": [
+    45473
+  ],
+  "AAAAAGCCGGAGTAG": [
+    45474
+  ],
+  "AAAAGCCGGAGTAGA": [
+    45475
+  ],
+  "AAAGCCGGAGTAGAA": [
+    45476
+  ],
+  "AAATCAATAATCAAC": [
+    45499
+  ],
+  "AACGGACGTCAGAAA": [
+    45558
+  ],
+  "AAAACCAGAAATCAT": [
+    45570
+  ],
+  "AAACCAGAAATCATG": [
+    45571
+  ],
+  "AAATCATGGTTATGA": [
+    45578
+  ],
+  "AATCATGGTTATGAC": [
+    45579
+  ],
+  "ACCCTCGCAAACTTG": [
+    45634
+  ],
+  "AAACTTGTCACGCTA": [
+    45642
+  ],
+  "AAACCCAAAACTCAA": [
+    45656
+  ],
+  "AAAACTCAAATCAAC": [
+    45662
+  ],
+  "AAACTCAAATCAACA": [
+    45663
+  ],
+  "AAATCAACAGGCGCC": [
+    45669
+  ],
+  "AACAGGCGCCGGACG": [
+    45674
+  ],
+  "AAGCAGCTTGGCCTG": [
+    45726
+  ],
+  "AAAGACTTCTCTCCG": [
+    45741
+  ],
+  "AAAAGTCAGGACGCT": [
+    45756
+  ],
+  "AAAGTCAGGACGCTG": [
+    45757
+  ],
+  "AAGGAGCGTGGCGCT": [
+    45789
+  ],
+  "AATCGACCGTTGCAG": [
+    45839
+  ],
+  "AATATCTGGGCTTCA": [
+    45855
+  ],
+  "AAGGCTGACAGCCTG": [
+    45903
+  ],
+  "AAAATTCAAAGAAGC": [
+    45923
+  ],
+  "AAAGAAGCGGGCGGA": [
+    45930
+  ],
+  "AACGGTCAGAGAGAT": [
+    45944
+  ],
+  "ACCGCGATTATCTCC": [
+    45977
+  ],
+  "AATCATTACCGTGAT": [
+    46034
+  ],
+  "AACGCCATTACCTAC": [
+    46049
+  ],
+  "AAAGCCCAGCGCGAC": [
+    46064
+  ],
+  "AAAAATGCCAGAGAA": [
+    46079
+  ],
+  "AAAATGCCAGAGAAC": [
+    46080
+  ],
+  "AAATGCCAGAGAACT": [
+    46081
+  ],
+  "AACGCGGCAATTACT": [
+    46106
+  ],
+  "AAAATACACGAAGGA": [
+    46162
+  ],
+  "AAAATGATGCTCTGC": [
+    46197
+  ],
+  "AAAGCAGTCTGTCAG": [
+    46250
+  ],
+  "AAGCAGTCTGTCAGT": [
+    46251
+  ],
+  "AAGCCACCACCGCCT": [
+    46275
+  ],
+  "AACGGGATTATTTCA": [
+    46335
+  ],
+  "AAAAACAACTGGAAG": [
+    46377
+  ],
+  "AAAACAACTGGAAGG": [
+    46378
+  ],
+  "AAACAACTGGAAGGA": [
+    46379
+  ],
+  "AACAACTGGAAGGAA": [
+    46380
+  ],
+  "AACCCAGAAGTATAT": [
+    46393
+  ],
+  "AACTCATGCAATTAT": [
+    46447
+  ],
+  "AAATGCCTAAAGTAA": [
+    46496
+  ],
+  "AAAGTAATAAAACCG": [
+    46504
+  ],
+  "AAAACCGAGCAATCC": [
+    46512
+  ],
+  "AAACCGAGCAATCCA": [
+    46513
+  ],
+  "AACAACATTTTCTGC": [
+    46557
+  ],
+  "AAATTTTGGCTGCAT": [
+    46580
+  ],
+  "AAACGAAGAAATGAT": [
+    46622
+  ],
+  "AAATGATGGGTGATG": [
+    46630
+  ],
+  "AAACGTCTGTTGAGC": [
+    46686
+  ],
+  "AACGTCTGTTGAGCA": [
+    46687
+  ],
+  "AAGCAGGGCCAGCGC": [
+    46713
+  ],
+  "AGCAGGGCCAGCGCA": [
+    46714
+  ],
+  "AAGTTCGCAGAATCG": [
+    46775
+  ],
+  "AAAATTAAACAAACC": [
+    46799
+  ],
+  "AAACAAACCCTAAAC": [
+    46805
+  ],
+  "AAACAATGAGTTGAA": [
+    46816
+  ],
+  "AAATTTCATATTGTT": [
+    46829
+  ],
+  "AATATTTATTAATGT": [
+    46844
+  ],
+  "AACTATGTCCACAGC": [
+    46897
+  ],
+  "AAAACGATGCACACA": [
+    46953
+  ],
+  "AAACGATGCACACAG": [
+    46954
+  ],
+  "AACGATGCACACAGG": [
+    46955
+  ],
+  "AACGCCCCGGTGCTG": [
+    47000
+  ],
+  "AAACCGGACGTTATG": [
+    47024
+  ],
+  "AAAGATTTGTGTAGT": [
+    47050
+  ],
+  "AAAGGTATAGTAATA": [
+    47101
+  ],
+  "AAAACTCCTGCTTTA": [
+    47150
+  ],
+  "AAACTCCTGCTTTAG": [
+    47151
+  ],
+  "AAATGTGATTTCTCT": [
+    47188
+  ],
+  "AACCTATCATAGGAC": [
+    47210
+  ],
+  "AACATTTACAACCTT": [
+    47257
+  ],
+  "AACACGGTGTTATCG": [
+    47288
+  ],
+  "AACACGATGTGAATA": [
+    47309
+  ],
+  "AAATATAATGTGAGA": [
+    47343
+  ],
+  "AAAACAATTCACAGT": [
+    47382
+  ],
+  "AAAAATGGCAACCTG": [
+    47431
+  ],
+  "AAAACCTTCCATGTG": [
+    47456
+  ],
+  "AAACCTTCCATGTGA": [
+    47457
+  ],
+  "AACCTTCCATGTGAT": [
+    47458
+  ],
+  "AATCTGGTCTGACCT": [
+    47512
+  ],
+  "AAATATTAGGAATGT": [
+    47554
+  ],
+  "AAAGTGCGGTCCTGC": [
+    47597
+  ],
+  "AAATACAACCGACAG": [
+    47627
+  ],
+  "AAAGATTTGAAGTAA": [
+    47679
+  ],
+  "AAAATGAATAAAGAA": [
+    47734
+  ],
+  "AAAAAATATGCTTAA": [
+    47787
+  ],
+  "AAAAATATGCTTAAT": [
+    47788
+  ],
+  "AAAATATGCTTAATA": [
+    47789
+  ],
+  "AAATATGCTTAATAG": [
+    47790
+  ],
+  "AACATAAGGTGTCTC": [
+    47849
+  ],
+  "AAGCACGATAATAAT": [
+    47899
+  ],
+  "AACTGCTAATCATTC": [
+    47951
+  ],
+  "AAACTATTTAGTCTG": [
+    47966
+  ],
+  "AAAACTGCAACTCAA": [
+    48023
+  ],
+  "AAACTGCAACTCAAT": [
+    48024
+  ],
+  "AACTCAATTACTGCA": [
+    48031
+  ],
+  "AAGTGAATTTACAAT": [
+    48060
+  ],
+  "AAGAACGCGGGATGT": [
+    48093
+  ],
+  "AACGCGGGATGTTCA": [
+    48096
+  ],
+  "AATTGATGTATATGC": [
+    48126
+  ],
+  "AATGACCCAGGCTGA": [
+    48177
+  ],
+  "AAATTCCCGGACCCT": [
+    48193
+  ],
+  "AAAGCGGATGTTGCG": [
+    48252
+  ],
+  "AAGCGGATGTTGCGG": [
+    48253
+  ],
+  "ACATGAGGTTGCCCC": [
+    48299
+  ],
+  "AAGTTGTTTTTACGT": [
+    48344
+  ],
+  "AAGTTGATGCAGATC": [
+    48360
+  ],
+  "AATACGATACCTGCG": [
+    48379
+  ],
+  "AATTGATTATTTGAC": [
+    48398
+  ],
+  "AATCATTATCACTTT": [
+    48455
+  ]
+}
