@@ -1,8 +1,7 @@
-from utils import *
 from Bio import SeqIO, Align
 
 
-def create_alignments(ref_json, forward_json, reversed_json):
+def create_alignments(ref_json, forward_json, reversed_json, ref_seq, forward_seq, reversed_seq):
     aligner = Align.PairwiseAligner()
     aligner.mode = 'local'
 
@@ -30,16 +29,16 @@ def create_alignments(ref_json, forward_json, reversed_json):
             seq_l = max(0, seq_pos - length_of_string)
             if strand == 'f':
                 try:
-                    alignment = aligner.align(referent_genome_io.seq[last_index:ref_pos],
-                                              sequences_io_forward[int(seq_nr)].seq[seq_l:seq_pos])[0]
+                    alignment = aligner.align(ref_seq.seq[last_index:ref_pos],
+                                              forward_seq[int(seq_nr)].seq[seq_l:seq_pos])[0]
                     list_of_alignments.append(
                         [100 * alignment.score / (ref_pos - last_index), alignment, last_index, ref_pos])
                 except (IndexError, ValueError):
                     print("")
             else:
                 try:
-                    alignment = aligner.align(referent_genome_io.seq[last_index:ref_pos],
-                                              sequences_io_reversed[int(seq_nr)].seq[seq_l:seq_pos])[0]
+                    alignment = aligner.align(ref_seq.seq[last_index:ref_pos],
+                                              reversed_seq[int(seq_nr)].seq[seq_l:seq_pos])[0]
                     list_of_alignments.append(
                         [100 * alignment.score / (ref_pos - last_index), alignment, last_index, ref_pos])
                 except (IndexError, ValueError):

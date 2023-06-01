@@ -1,6 +1,4 @@
-import json
 from collections import defaultdict
-from utils import *
 
 
 def count_minimizers(nested_dict):
@@ -22,7 +20,3 @@ def remove_recurring_keys(nested_dict):
         print("The current sequence is:", sequence_index)
         nested_dict[sequence_index] = {k: v for k, v in nested_dict[sequence_index].items() if
                                        k in single_occurrence_minimizers}
-
-
-# remove_recurring_keys(filtered_forward)
-# remove_recurring_keys(filtered_reversed)
